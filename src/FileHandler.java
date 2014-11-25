@@ -10,7 +10,7 @@ public class FileHandler {
 	private BufferedReader fileInput;
 	private PrintWriter writer;
 	
-	//read in Dracula file
+	//read in text file
 	public void fileReader(){
 		try {
 			fileInput = new BufferedReader(new FileReader("Dracula"));
@@ -19,7 +19,7 @@ public class FileHandler {
 		}
 	}
 
-	//remove punctuation and converts to lowercase
+	//remove punctuation and converts to lower case
 	//create new formatted file
 	public void formattedFile() throws IOException{
 		String line;
@@ -27,7 +27,8 @@ public class FileHandler {
 		try {
 			writer = new PrintWriter("formattedDracula.txt");
 			while((line = fileInput.readLine()) != null){
-				str = line.replaceAll("[^a-zA-Z0-9]+"," ");
+//				str = line.replaceAll("'", "");
+				str = line.replaceAll("'", "").replaceAll("[^a-zA-Z0-9]+"," ");
 				str = str.toLowerCase();
 				writer.println(str);
 			}
