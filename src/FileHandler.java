@@ -6,7 +6,6 @@ import java.io.PrintWriter;
 
 public class FileHandler {
 
-	private int count;
 	private BufferedReader fileInput;
 	private PrintWriter writer;
 	
@@ -27,8 +26,10 @@ public class FileHandler {
 		try {
 			writer = new PrintWriter("formattedDracula.txt");
 			while((line = fileInput.readLine()) != null){
-//				str = line.replaceAll("'", "");
-				str = line.replaceAll("'", "").replaceAll("[^a-zA-Z0-9]+"," ");
+				if (line.isEmpty() || line.equals(" ")){
+				    continue;
+				}
+				str = line.replaceAll("'_*", "").replaceAll("[^a-zA-Z0-9]+"," ");
 				str = str.toLowerCase();
 				writer.println(str);
 			}
@@ -39,10 +40,8 @@ public class FileHandler {
 		writer.close();
 		fileInput.close();
 		
-
 	}
 
-	
 	//print the file
 	public void filePrinter(BufferedReader in) throws IOException{
 		String line;
