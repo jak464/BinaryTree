@@ -1,7 +1,7 @@
 
 public class WordNode {
 
-	private String data;
+	private String word;
 	private int wordInstanceCount;
 	private WordNode lchild;
 	private WordNode rchild;
@@ -11,12 +11,12 @@ public class WordNode {
 		rchild = null;
 	}
 	
-	public String getData() {
-		return data;
+	public String getWord() {
+		return word;
 	}
 	
-	public void setData(String data) {
-		this.data = data;
+	public void setWord(String word) {
+		this.word = word;
 	}
 	
 	public WordNode getLchild() {

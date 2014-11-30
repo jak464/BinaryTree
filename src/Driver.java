@@ -6,9 +6,9 @@ public class Driver {
 	public void doIt() throws IOException{
 		FileHandler fh = new FileHandler();
 		fh.fileReader();
-		fh.formattedFile();
+		fh.formatFile();
 		
-		BinaryTree bt = new BinaryTree();
+	/*	BinaryTree bt = new BinaryTree();
 		bt.add("Poop");
 		bt.add("Pants");
 		bt.add("xvii");
@@ -20,7 +20,7 @@ public class Driver {
 		bt.inOrder();		
 		System.out.println("post order");
 		bt.postOrder();
-
+		System.out.println(bt.search("Podfop"));*/
 
 	}
 	

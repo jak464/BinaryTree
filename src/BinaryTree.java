@@ -4,25 +4,28 @@ public class BinaryTree {
 	private WordNode root;
 	private int nodeCount;
 	
+	//Binary Tree Constructor
 	public BinaryTree() {
 		root = null;
 		nodeCount = 0;
 	}
 	
-	public boolean add(String data) {
+	//Add Word to the Binary Tree
+	public boolean add(String word) {
 		
 		WordNode n = new WordNode();
-		n.setData(data);
+		n.setWord(word);
 
-		// What if tree is empty?
+		//If the tree is empty, add the root node
 		if (nodeCount == 0) {
 			root = n;
 			nodeCount++;
 			return true;
 		}
 		
-		// See if data already in tree
-		if (search(data)){
+		//Check if data already in tree
+		//if it does, do not add but increase word instance count instead
+		if (search(word)){
 			n.setWordInstanceCount(n.getWordInstanceCount()+1);
 			return false;
 		}
@@ -33,7 +36,7 @@ public class BinaryTree {
 		while (tmp != null) {
 //			returns neg int if nodeOne is < nodeTwo, returns 0 if equal
 //			returns pos int if nodeOne is > nodetwo*/			
-			int result = data.compareTo(tmp.getData());
+			int result = word.compareTo(tmp.getWord());
 
 			if (result > 0) {
 				if (tmp.getRchild() == null) {
@@ -71,7 +74,7 @@ public class BinaryTree {
 		}
 		
 		printTree(root.getLchild());
-		System.out.print(root.getData());
+		System.out.print(root.getWord());
 		printTree(root.getRchild());
 		
 	}
@@ -89,7 +92,7 @@ public class BinaryTree {
 		if (root == null) {
 			return;
 		}
-		System.out.print(root.getData() + " ");
+		System.out.print(root.getWord() + " ");
 		preOrderTraversal(root.getLchild());
 		preOrderTraversal(root.getRchild());
 	}
@@ -108,7 +111,7 @@ public class BinaryTree {
 			return;
 		}
 		preOrderTraversal(root.getLchild());
-		System.out.print(root.getData() + " ");
+		System.out.print(root.getWord() + " ");
 		preOrderTraversal(root.getRchild());
 	}
 	
@@ -127,7 +130,7 @@ public class BinaryTree {
 		}
 		postOrderTraversal(root.getLchild());
 		postOrderTraversal(root.getRchild());
-		System.out.print(root.getData() + " ");
+		System.out.print(root.getWord() + " ");
 	}
 	
 
@@ -140,12 +143,12 @@ public class BinaryTree {
 			return false;
 		}
 		
-		if (root.getData() == word) {
+		if (root.getWord() == word) {
 			return true;
 		} else {
 			//	returns neg int if nodeOne is < nodeTwo, returns 0 if equal
 			//	returns pos int if nodeOne is > nodetwo*/
-			int result = word.compareTo(root.getData());
+			int result = word.compareTo(root.getWord());
 			
 			if (result < 0) {
 				return bsearch(root.getLchild(), word);
@@ -154,5 +157,30 @@ public class BinaryTree {
 				return bsearch(root.getRchild(), word);
 			}
 		}	
+	}
+	
+	//What is the depth of the tree?
+	public void findDepth(){
+		
+	}
+	
+	//How many unique words are there in the book?
+	public int getUniqueWordsCount(){
+		return nodeCount;
+	}
+	
+	//Which word occurs most frequently?
+	public String findMostFrequentWord(){
+		return null;
+	}
+	
+	//What word is at the root of the tree?
+	public String getRoot(){
+		return root.getWord();
+	}
+	
+	//What word is at the deepest of the tree?
+	public void findDeepestLeaf(){
+		
 	}
  }

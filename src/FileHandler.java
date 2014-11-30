@@ -12,7 +12,7 @@ public class FileHandler {
 	//read in text file
 	public void fileReader(){
 		try {
-			fileInput = new BufferedReader(new FileReader("Dracula"));
+			fileInput = new BufferedReader(new FileReader("dracula.txt"));
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
@@ -20,9 +20,11 @@ public class FileHandler {
 
 	//remove punctuation and converts to lower case
 	//create new formatted file
-	public void formattedFile() throws IOException{
+	public void formatFile() throws IOException{
+		
 		String line;
 		String str = "";
+		
 		try {
 			writer = new PrintWriter("formattedDracula.txt");
 			while((line = fileInput.readLine()) != null){
@@ -53,8 +55,58 @@ public class FileHandler {
 		in.close();
 	}
 	
-	public static void main(String[] args) throws IOException {
+	//add contents of file to binary tree
+	public void addFileToBinaryTree(){
+		
+		BufferedReader formattedFile;
+		String line;
+		String str = "";
+		
+		try {
+			formattedFile = new BufferedReader(new FileReader("formattedDracula.txt"));
+				while((line = formattedFile.readLine()) != null){
+					if (line.isEmpty() || line.equals(" ")){
+					    continue;
+					}
+					
+					String lineWordArray[] = line.split(" ");
+					
+					for(String word : lineWordArray){
+						
+					}
+			} 
+		} catch (FileNotFoundException e) {
+			
+			e.printStackTrace();
+		}
+		catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+/*		
+		String line;
+		String str = "";
+		
+		try {
+			writer = new PrintWriter("formattedDracula.txt");
+			while((line = fileInput.readLine()) != null){
+				if (line.isEmpty() || line.equals(" ")){
+				    continue;
+				}
+				
+				str = line.replaceAll("['_*!]", "").replaceAll("[^a-zA-Z0-9]+"," ");
+				str = str.toLowerCase();
+				
+				writer.println(str);
+			}
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
 
+		writer.close();
+		fileInput.close();*/
+		
 	}
 	
 }
