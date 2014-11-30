@@ -23,16 +23,19 @@ public class BinaryTree {
 		
 		// See if data already in tree
 		if (search(data)){
-			n.setWordInstanceCount(wordInstanceCount++);
+			n.setWordInstanceCount(n.getWordInstanceCount()+1);
+			return false;
 		}
 			
-			return false;
-		
 		// iteratively locate place for this data
 		WordNode tmp = root;
 		
 		while (tmp != null) {
-			if (data > tmp.getData()) {
+//			returns neg int if nodeOne is < nodeTwo, returns 0 if equal
+//			returns pos int if nodeOne is > nodetwo*/			
+			int result = data.compareTo(tmp.getData());
+
+			if (result > 0) {
 				if (tmp.getRchild() == null) {
 					tmp.setRchild(n);
 					nodeCount++;
@@ -73,11 +76,14 @@ public class BinaryTree {
 		
 	}
 	
-
-/*	public void preOrder() {
+	//display the data part of root element
+	//traverse the left subtree by recursively calling the pre-order function
+	//traverse the right subtree by recursively calling the pre-order function
+	//aka start at root and go downwards on left and go downwards on right
+	public void preOrder() {
 		preOrderTraversal(root);
 		System.out.println();
-	}*/
+	}
 	
 	private void preOrderTraversal(WordNode root) {
 		if (root == null) {
@@ -88,7 +94,10 @@ public class BinaryTree {
 		preOrderTraversal(root.getRchild());
 	}
 
-
+	//traverse the left subtree by calling the in-order function
+	//display the data part of the root element
+	//traverse the right subtree by recursively calling the in-order function
+	//aka start from left bottom and work your way up and right
 	public void inOrder() {
 		inOrderTraversal(root);
 		System.out.println();
@@ -103,6 +112,10 @@ public class BinaryTree {
 		preOrderTraversal(root.getRchild());
 	}
 	
+	//traverse the left subtree by recursively calling the post-order function
+	//traverse the right subtree by recursively calling the post-order function
+	//display the data part of root element (or current element)
+	//left most bottom nodes first, up, then right side. 
 	public void postOrder() {
 		postOrderTraversal(root);
 		System.out.println();
@@ -130,18 +143,16 @@ public class BinaryTree {
 		if (root.getData() == word) {
 			return true;
 		} else {
+			//	returns neg int if nodeOne is < nodeTwo, returns 0 if equal
+			//	returns pos int if nodeOne is > nodetwo*/
 			int result = word.compareTo(root.getData());
+			
 			if (result < 0) {
 				return bsearch(root.getLchild(), word);
-			} else {
+			} 
+			else {
 				return bsearch(root.getRchild(), word);
 			}
-		}
-		
-		
-
-//		returns neg int if nodeOne is < nodeTwo, returns 0 if equal
-//		returns pos int if nodeOne is > nodetwo*/
-
+		}	
 	}
  }

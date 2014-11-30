@@ -54,9 +54,7 @@ public class FileHandler {
 	}
 	
 	public static void main(String[] args) throws IOException {
-		FileHandler fh = new FileHandler();
-		fh.fileReader();
-		fh.formattedFile();
+
 	}
 	
 }
