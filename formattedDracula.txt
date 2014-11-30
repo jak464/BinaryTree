@@ -14,12 +14,12 @@ produced from images generously made available by the
 internet archive 
  dracula
  dracula
- by 
+ by
  bram stoker
  illustration colophon 
  new york
  grosset dunlap
- publishers 
+ publishers
  copyright 1897 in the united states of america according
  to act of congress by bram stoker
  all rights reserved 
@@ -89,7 +89,7 @@ dracula
 chapter i
 jonathan harkers journal
  kept in shorthand 
- 3 may bistritz left munich at 8 35 p m on 1st may arriving at
+3 may bistritz left munich at 8 35 p m on 1st may arriving at
 vienna early next morning should have arrived at 6 46 but train was an
 hour late buda pesth seems a wonderful place from the glimpse which i
 got of it from the train and the little i could walk through the
@@ -196,7 +196,7 @@ a letter
  will enjoy your stay in my beautiful land 
  your friend 
  dracula 
- 4 may i found that my landlord had got a letter from the count 
+4 may i found that my landlord had got a letter from the count 
 directing him to secure the best place on the coach for me but on
 making inquiries as to details he seemed somewhat reticent and
 pretended that he could not understand my german this could not be
@@ -244,9 +244,9 @@ round my neck whether it is the old ladys fear or the many ghostly
 traditions of this place or the crucifix itself i do not know but i
 am not feeling nearly as easy in my mind as usual if this book should
 ever reach mina before i do let it bring my good bye here comes the
-coach 
+coach
  
- 5 may the castle the grey of the morning has passed and the sun is
+5 may the castle the grey of the morning has passed and the sun is
 high over the distant horizon which seems jagged whether with trees or
 hills i know not for it is so far off that big things and little are
 mixed i am not sleepy and as i am not to be called till i awake 
@@ -546,8 +546,8 @@ vast ruined castle from whose tall black windows came no ray of light
 and whose broken battlements showed a jagged line against the moonlit
 sky 
 chapter ii
-jonathan harkers journal continued 
- 5 may i must have been asleep for certainly if i had been fully
+jonathan harkers journal continued
+5 may i must have been asleep for certainly if i had been fully
 awake i must have noticed the approach of such a remarkable place in
 the gloom the courtyard looked of considerable size and as several dark
 ways led from it under great round arches it perhaps seemed bigger than
@@ -701,9 +701,9 @@ so sleep well and dream well with a courteous bow he opened for me
 himself the door to the octagonal room and i entered my bedroom 
 i am all in a sea of wonders i doubt i fear i think strange things 
 which i dare not confess to my own soul god keep me if only for the
-sake of those dear to me 
+sake of those dear to me
  
- 7 may it is again early morning but i have rested and enjoyed the
+7 may it is again early morning but i have rested and enjoyed the
 last twenty four hours i slept till late in the day and awoke of my
 own accord when i had dressed myself i went into the room where we had
 supped and found a cold breakfast laid out with coffee kept hot by the
@@ -923,7 +923,7 @@ notice my window opened into the courtyard all i could see was the
 warm grey of quickening sky so i pulled the curtains again and have
 written of this day 
  
- 8 may i began to fear as i wrote in this book that i was getting too
+8 may i began to fear as i wrote in this book that i was getting too
 diffuse but now i am glad that i went into detail from the first for
 there is something so strange about this place and all in it that i
 cannot but feel uneasy i wish i were safe out of it or that i had
@@ -980,9 +980,9 @@ but i am not in heart to describe beauty for when i had seen the view i
 explored further doors doors doors everywhere and all locked and
 bolted in no place save from the windows in the castle walls is there
 an available exit 
-the castle is a veritable prison and i am a prisoner 
+the castle is a veritable prison and i am a prisoner
 chapter iii
-jonathan harkers journal continued 
+jonathan harkers journal continued
 when i found that i was a prisoner a sort of wild feeling came over me 
 i rushed up and down the stairs trying every door and peering out of
 every window i could find but after a little the conviction of my
@@ -1027,7 +1027,7 @@ dracula as it may help me to understand to night he may talk of
 himself if i turn the conversation that way i must be very careful 
 however not to awake his suspicion 
  
- midnight i have had a long talk with the count i asked him a few
+midnight i have had a long talk with the count i asked him a few
 questions on transylvania history and he warmed up to the subject
 wonderfully in his speaking of things and people and especially of
 battles he spoke as if he had been present at them all this he
@@ -1092,7 +1092,7 @@ diary seems horribly like the beginning of the arabian nights for
 everything has to break off at cockcrow or like the ghost of hamlets
 father 
  
- 12 may let me begin with facts bare meagre facts verified by
+12 may let me begin with facts bare meagre facts verified by
 books and figures and of which there can be no doubt i must not
 confuse them with experiences which will have to rest on my own
 observation or my memory of them last evening when the count came from
@@ -1206,7 +1206,7 @@ washing them i quite understood my only doubt was as to whether any
 dream could be more terrible than the unnatural horrible net of gloom
 and mystery which seemed closing around me 
  
- later i endorse the last words written but this time there is no
+later i endorse the last words written but this time there is no
 doubt in question i shall not fear to sleep in any place where he is
 not i have placed the crucifix over the head of my bed i imagine that
 my rest is thus freer from dreams and there it shall remain 
@@ -1239,7 +1239,7 @@ somewhat amused for it is wonderful how small a matter will interest
 and amuse a man when he is a prisoner but my very feelings changed to
 repulsion and terror when i saw the whole man slowly emerge from the
 window and begin to crawl down the castle wall over that dreadful abyss 
- face down with his cloak spreading out around him like great wings at
+face down with his cloak spreading out around him like great wings at
 first i could not believe my eyes i thought it was some trick of the
 moonlight some weird effect of shadow but i kept looking and it could
 be no delusion i saw the fingers and toes grasp the corners of the
@@ -1251,7 +1251,7 @@ semblance of man i feel the dread of this horrible place overpowering
 me i am in fear in awful fear and there is no escape for me i am
 encompassed about with terrors that i dare not think of 
  
- 15 may once more have i seen the count go out in his lizard fashion 
+15 may once more have i seen the count go out in his lizard fashion 
 he moved downwards in a sidelong way some hundred feet down and a good
 deal to the left he vanished into some hole or window when his head
 had disappeared i leaned out to try and see more but without
@@ -1305,7 +1305,7 @@ nineteenth century up to date with a vengeance and yet unless my
 senses deceive me the old centuries had and have powers of their own
 which mere modernity cannot kill 
  
- later the morning of 16 may god preserve my sanity for to this i
+later the morning of 16 may god preserve my sanity for to this i
 am reduced safety and the assurance of safety are things of the past 
 whilst i live on here there is but one thing to hope for that i may not
 go mad if indeed i be not mad already if i be sane then surely it
@@ -1316,14 +1316,14 @@ purpose great god merciful god let me be calm for out of that way
 lies madness indeed i begin to get new lights on certain things which
 have puzzled me up to now i never quite knew what shakespeare meant
 when he made hamlet say 
- my tablets quick my tablets 
+ my tablets quick my tablets
  tis meet that i put it down etc 
 for now feeling as though my own brain were unhinged or as if the shock
 had come which must end in its undoing i turn to my diary for repose 
 the habit of entering accurately must help to soothe me 
 the counts mysterious warning frightened me at the time it frightens
 me more now when i think of it for in future he has a fearful hold upon
-me i shall fear to doubt what he may say 
+me i shall fear to doubt what he may say
 when i had written in my diary and had fortunately replaced the book and
 pen in my pocket i felt sleepy the counts warning came into my mind 
 but i took a pleasure in disobeying it the sense of sleep was upon me 
@@ -1430,7 +1430,7 @@ moonlight and pass out through the window for i could see outside the
 dim shadowy forms for a moment before they entirely faded away 
 then the horror overcame me and i sank down unconscious 
 chapter iv
-jonathan harkers journal continued 
+jonathan harkers journal continued
 i awoke in my own bed if it be that i had not dreamt the count must
 have carried me here i tried to satisfy myself on the subject but
 could not arrive at any unquestionable result to be sure there were
@@ -1448,14 +1448,14 @@ room although it has been to me so full of fear it is now a sort of
 sanctuary for nothing can be more dreadful than those awful women who
 were who are waiting to suck my blood 
  
- 18 may i have been down to look at that room again in daylight for
+18 may i have been down to look at that room again in daylight for
 i must know the truth when i got to the doorway at the top of the
 stairs i found it closed it had been so forcibly driven against the
 jamb that part of the woodwork was splintered i could see that the bolt
 of the lock had not been shot but the door is fastened from the inside 
 i fear it was no dream and must act on this surmise 
  
- 19 may i am surely in the toils last night the count asked me in
+19 may i am surely in the toils last night the count asked me in
 the suavest tones to write three letters one saying that my work here
 was nearly done and that i should start for home within a few days 
 another that i was starting on the next morning from the time of the
@@ -1478,9 +1478,9 @@ him what dates i should put on the letters he calculated a minute and
 then said 
  the first should be june 12 the second june 19 and the third june
 29 
-i know now the span of my life god help me 
+i know now the span of my life god help me
  
- 28 may there is a chance of escape or at any rate of being able to
+28 may there is a chance of escape or at any rate of being able to
 send word home a band of szgany have come to the castle and are
 encamped in the courtyard these szgany are gipsies i have notes of
 them in my book they are peculiar to this part of the world though
@@ -1536,10 +1536,10 @@ may not have the pleasure to talk to night since there are many labours
 to me but you will sleep i pray i passed to my room and went to bed 
 and strange to say slept without dreaming despair has its own calms 
  
- 31 may this morning when i woke i thought i would provide myself
+31 may this morning when i woke i thought i would provide myself
 with some paper and envelopes from my bag and keep them in my pocket so
 that i might write in case i should get an opportunity but again a
-surprise again a shock 
+surprise again a shock
 every scrap of paper was gone and with it all my notes my memoranda 
 relating to railways and travel my letter of credit in fact all that
 might be useful to me were i once outside the castle i sat and pondered
@@ -1549,7 +1549,7 @@ the suit in which i had travelled was gone and also my overcoat and
 rug i could find no trace of them anywhere this looked like some new
 scheme of villainy 
  
- 17 june this morning as i was sitting on the edge of my bed
+17 june this morning as i was sitting on the edge of my bed
 cudgelling my brains i heard without a cracking of whips and pounding
 and scraping of horses feet up the rocky path beyond the courtyard 
 with joy i hurried to the window and saw drive into the yard two great
@@ -1572,7 +1572,7 @@ yard the slovaks were given some money by the szgany and spitting on
 it for luck lazily went each to his horses head shortly afterwards i
 heard the cracking of their whips die away in the distance 
  
- 24 june before morning last night the count left me early and
+24 june before morning last night the count left me early and
 locked himself into his own room as soon as i dared i ran up the
 winding stair and looked out of the window which opened south i
 thought i would watch for the count for there is something going on 
@@ -1646,7 +1646,7 @@ she was better dead
 what shall i do what can i do how can i escape from this dreadful
 thing of night and gloom and fear 
  
- 25 june morning no man knows till he has suffered from the night
+25 june morning no man knows till he has suffered from the night
 how sweet and how dear to his heart and eye the morning can be when the
 sun grew so high this morning that it struck the top of the great
 gateway opposite my window the high spot which it touched seemed to me
@@ -1656,11 +1656,11 @@ take action of some sort whilst the courage of the day is upon me last
 night one of my post dated letters went to post the first of that fatal
 series which is to blot out the very traces of my existence from the
 earth 
-let me not think of it action 
+let me not think of it action
 it has always been at night time that i have been molested or
 threatened or in some way in danger or in fear i have not yet seen the
 count in the daylight can it be that he sleeps when others wake that
-he may be awake whilst they sleep if i could only get into his room 
+he may be awake whilst they sleep if i could only get into his room
 but there is no possible way the door is always locked no way for me 
 yes there is a way if one dares to take it where his body has gone
 why may not another body go i have seen him myself crawl from his
@@ -1669,9 +1669,9 @@ chances are desperate but my need is more desperate still i shall risk
 it at the worst it can only be death and a mans death is not a
 calfs and the dreaded hereafter may still be open to me god help me
 in my task good bye mina if i fail good bye my faithful friend and
-second father good bye all and last of all mina 
+second father good bye all and last of all mina
  
- same day later i have made the effort and god helping me have
+same day later i have made the effort and god helping me have
 come safely back to this room i must put down every detail in order i
 went whilst my courage was fresh straight to the window on the south
 side and at once got outside on the narrow ledge of stone which runs
@@ -1734,7 +1734,7 @@ leaving the counts room by the window crawled again up the castle
 wall regaining my room i threw myself panting upon the bed and tried
 to think 
  
- 29 june to day is the date of my last letter and the count has
+29 june to day is the date of my last letter and the count has
 taken steps to prove that it was genuine for again i saw him leave the
 castle by the same window and in my clothes as he went down the wall 
 lizard fashion i wished i had a gun or some lethal weapon that i might
@@ -1808,9 +1808,9 @@ without the three terrible women licking their lips as i appeared they
 all joined in a horrible laugh and ran away 
 i came back to my room and threw myself on my knees it is then so near
 the end to morrow to morrow lord help me and those to whom i am
-dear 
+dear
  
- 30 june morning these may be the last words i ever write in this
+30 june morning these may be the last words i ever write in this
 diary i slept till just before the dawn and when i woke threw myself
 on my knees for i determined that if death came he should find me
 ready 
@@ -1899,18 +1899,18 @@ hark in the courtyard and down the rocky way the roll of heavy wheels
 the crack of whips and the chorus of the szgany as they pass into the
 distance 
 i am alone in the castle with those awful women faugh mina is a woman 
-and there is nought in common they are devils of the pit 
+and there is nought in common they are devils of the pit
 i shall not remain alone with them i shall try to scale the castle wall
 farther than i have yet attempted i shall take some of the gold with
 me lest i want it later i may find a way from this dreadful place 
 and then away for home away to the quickest and nearest train away
 from this cursed spot from this cursed land where the devil and his
-children still walk with earthly feet 
+children still walk with earthly feet
 at least gods mercy is better than that of these monsters and the
 precipice is steep and high at its foot a man may sleep as a man 
-good bye all mina 
+good bye all mina
 chapter v
- letter from miss mina murray to miss lucy westenra 
+letter from miss mina murray to miss lucy westenra 
  9 may 
  my dearest lucy 
  forgive my long delay in writing but i have been simply overwhelmed
@@ -1944,13 +1944,13 @@ together there is the ten oclock bell ringing good bye
  tell me all the news when you write you have not told me anything for
 a long time i hear rumours and especially of a tall handsome 
 curly haired man 
- letter lucy westenra to mina murray 
+letter lucy westenra to mina murray 
  17 chatham street 
  wednesday 
  my dearest mina 
  i must say you tax me very unfairly with being a bad correspondent i
 wrote to you twice since we parted and your last letter was only your
- second besides i have nothing to tell you there is really nothing
+second besides i have nothing to tell you there is really nothing
 to interest you town is very pleasant just now and we go a good deal
 to picture galleries and for walks and rides in the park as to the
 tall curly haired man i suppose it was the one who was with me at the
@@ -1990,7 +1990,7 @@ prayers and mina pray for my happiness
  lucy 
  p s i need not tell you this is a secret good night again 
  l 
- letter lucy westenra to mina murray 
+letter lucy westenra to mina murray 
  24 may 
  my dearest mina 
  thanks and thanks and thanks again for your sweet letter it was so
@@ -2000,7 +2000,7 @@ here am i who shall be twenty in september and yet i never had a
 proposal till to day not a real proposal and to day i have had three 
 just fancy three proposals in one day isnt it awful i feel sorry 
 really and truly sorry for two of the poor fellows oh mina i am so
-happy that i dont know what to do with myself and three proposals 
+happy that i dont know what to do with myself and three proposals
 but for goodness sake dont tell any of the girls or they would be
 getting all sorts of extravagant ideas and imagining themselves injured
 and slighted if in their very first day at home they did not get six at
@@ -2141,9 +2141,9 @@ deserve it i must only try in the future to show that i am not
 ungrateful to god for all his goodness to me in sending to me such a
 lover such a husband and such a friend 
  good bye 
- dr sewards diary 
+dr sewards diary 
  kept in phonograph 
- 25 may ebb tide in appetite to day cannot eat cannot rest so
+25 may ebb tide in appetite to day cannot eat cannot rest so
 diary instead since my rebuff of yesterday i have a sort of empty
 feeling nothing in the world seems of sufficient importance to be worth
 the doing as i knew that the only cure for this sort of thing was
@@ -2157,9 +2157,9 @@ it there was i now see something of cruelty i seemed to wish to keep
 him to the point of his madness a thing which i avoid with the patients
 as i would the mouth of hell 
  mem under what circumstances would i not avoid the pit of hell 
- omnia rom venalia sunt hell has its price verb sap if there be
+omnia rom venalia sunt hell has its price verb sap if there be
 anything behind this instinct it will be valuable to trace it afterwards
- accurately so i had better commence to do so therefore 
+accurately so i had better commence to do so therefore 
 r m renfield tat 59 sanguine temperament great physical strength 
 morbidly excitable periods of gloom ending in some fixed idea which i
 cannot make out i presume that the sanguine temperament itself and the
@@ -2170,7 +2170,7 @@ on this point is when self is the fixed point the centripetal force is
 balanced with the centrifugal when duty a cause etc is the fixed
 point the latter force is paramount and only accident or a series of
 accidents can balance it 
- letter quincey p morris to hon arthur holmwood 
+letter quincey p morris to hon arthur holmwood 
  25 may 
  my dear art 
  weve told yarns by the camp fire in the prairies and dressed one
@@ -2186,17 +2186,17 @@ the happiest man in all the wide world who has won the noblest heart
 that god has made and the best worth winning we promise you a hearty
 welcome and a loving greeting and a health as true as your own right
 hand we shall both swear to leave you at home if you drink too deep to
-a certain pair of eyes come 
+a certain pair of eyes come
  yours as ever and always 
  quincey p morris 
- telegram from arthur holmwood to quincey p morris 
+telegram from arthur holmwood to quincey p morris 
  26 may 
  count me in every time i bear messages which will make both your ears
 tingle 
  art 
 chapter vi
 mina murrays journal
- 24 july whitby lucy met me at the station looking sweeter and
+24 july whitby lucy met me at the station looking sweeter and
 lovelier than ever and we drove up to the house at the crescent in
 which they have rooms this is a lovely place the little river the
 esk runs through a deep valley which broadens out as it comes near the
@@ -2270,7 +2270,7 @@ have had something to do with the abbey i shall go home too lucy went
 out visiting with her mother and as they were only duty calls i did
 not go they will be home by this 
  
- 1 august i came up here an hour ago with lucy and we had a most
+1 august i came up here an hour ago with lucy and we had a most
 interesting talk with my old friend and the two others who always come
 and join him he is evidently the sir oracle of them and i should think
 must have been in his time a most dictatorial person he will not admit
@@ -2394,7 +2394,7 @@ took hands as we sat and she told me all over again about arthur and
 their coming marriage that made me just a little heart sick for i
 havent heard from jonathan for a whole month 
  
- the same day i came up here alone for i am very sad there was no
+the same day i came up here alone for i am very sad there was no
 letter for me i hope there cannot be anything the matter with jonathan 
 the clock has just struck nine i see the lights scattered all over the
 town sometimes in rows where the streets are and sometimes singly 
@@ -2407,8 +2407,8 @@ along the quay there is a salvation army meeting in a back street
 neither of the bands hears the other but up here i hear and see them
 both i wonder where jonathan is and if he is thinking of me i wish he
 were here 
- dr sewards diary 
- 5 june the case of renfield grows more interesting the more i get to
+dr sewards diary 
+5 june the case of renfield grows more interesting the more i get to
 understand the man he has certain qualities very largely developed 
 selfishness secrecy and purpose i wish i could get at what is the
 object of the latter he seems to have some settled scheme of his own 
@@ -2422,13 +2422,13 @@ simple seriousness he thought for a moment and then said may i have
 three days i shall clear them away of course i said that would do i
 must watch him 
  
- 18 june he has turned his mind now to spiders and has got several
+18 june he has turned his mind now to spiders and has got several
 very big fellows in a box he keeps feeding them with his flies and
 the number of the latter is becoming sensibly diminished although he
 has used half his food in attracting more flies from outside to his
 room 
  
- 1 july his spiders are now becoming as great a nuisance as his
+1 july his spiders are now becoming as great a nuisance as his
 flies and to day i told him that he must get rid of them he looked
 very sad at this so i said that he must clear out some of them at all
 events he cheerfully acquiesced in this and i gave him the same time
@@ -2446,7 +2446,7 @@ figures generally single numbers added up in batches and then the
 totals added in batches again as though he were focussing some
 account as the auditors put it 
  
- 8 july there is a method in his madness and the rudimentary idea in
+8 july there is a method in his madness and the rudimentary idea in
 my mind is growing it will be a whole idea soon and then oh 
 unconscious cerebration you will have to give the wall to your
 conscious brother i kept away from my friend for a few days so that i
@@ -2457,7 +2457,7 @@ of taming is simple for already the spiders have diminished those that
 do remain however are well fed for he still brings in the flies by
 tempting them with his food 
  
- 19 july we are progressing my friend has now a whole colony of
+19 july we are progressing my friend has now a whole colony of
 sparrows and his flies and spiders are almost obliterated when i came
 in he ran to me and said he wanted to ask me a great favour a very 
 very great favour and as he spoke he fawned on me like a dog i asked
@@ -2479,14 +2479,14 @@ killing the man is an undeveloped homicidal maniac i shall test him
 with his present craving and see how it will work out then i shall know
 more 
  
- 10 p m i have visited him again and found him sitting in a corner
+10 p m i have visited him again and found him sitting in a corner
 brooding when i came in he threw himself on his knees before me and
 implored me to let him have a cat that his salvation depended upon it 
 i was firm however and told him that he could not have it whereupon
 he went without a word and sat down gnawing his fingers in the corner
 where i had found him i shall see him in the morning early 
  
- 20 july visited renfield very early before the attendant went his
+20 july visited renfield very early before the attendant went his
 rounds found him up and humming a tune he was spreading out his sugar 
 which he had saved in the window and was manifestly beginning his
 fly catching again and beginning it cheerfully and with a good grace i
@@ -2496,12 +2496,12 @@ there were a few feathers about the room and on his pillow a drop of
 blood i said nothing but went and told the keeper to report to me if
 there were anything odd about him during the day 
  
- 11 a m the attendant has just been to me to say that renfield has
+11 a m the attendant has just been to me to say that renfield has
 been very sick and has disgorged a whole lot of feathers my belief is 
 doctor he said that he has eaten his birds and that he just took
 and ate them raw 
  
- 11 p m i gave renfield a strong opiate to night enough to make
+11 p m i gave renfield a strong opiate to night enough to make
 even him sleep and took away his pocket book to look at it the thought
 that has been buzzing about my brain lately is complete and the theory
 proved my homicidal maniac is of a peculiar kind i shall have to
@@ -2530,11 +2530,11 @@ and that truly i began a new record so it will be until the great
 recorder sums me up and closes my ledger account with a balance to
 profit or loss oh lucy lucy i cannot be angry with you nor can i be
 angry with my friend whose happiness is yours but i must only wait on
-hopeless and work work work 
+hopeless and work work work
 if i only could have as strong a cause as my poor mad friend there a
 good unselfish cause to make me work that would be indeed happiness 
- mina murrays journal 
- 26 july i am anxious and it soothes me to express myself here it
+mina murrays journal 
+26 july i am anxious and it soothes me to express myself here it
 is like whispering to ones self and listening at the same time and
 there is also something about the shorthand symbols that makes it
 different from writing i am unhappy about lucy and about jonathan i
@@ -2564,7 +2564,7 @@ on the churchyard cliff and show him the beauty of whitby i daresay it
 is the waiting which disturbs her she will be all right when he
 arrives 
  
- 27 july no news from jonathan i am getting quite uneasy about him 
+27 july no news from jonathan i am getting quite uneasy about him 
 though why i should i do not know but i do wish that he would write if
 it were only a single line lucy walks more than ever and each night i
 am awakened by her moving about the room fortunately the weather is so
@@ -2577,7 +2577,7 @@ her looks she is a trifle stouter and her cheeks are a lovely
 rose pink she has lost that an mic look which she had i pray it will
 all last 
  
- 3 august another week gone and no news from jonathan not even to
+3 august another week gone and no news from jonathan not even to
 mr hawkins from whom i have heard oh i do hope he is not ill he
 surely would have written i look at that last letter of his but
 somehow it does not satisfy me it does not read like him and yet it is
@@ -2586,7 +2586,7 @@ her sleep the last week but there is an odd concentration about her
 which i do not understand even in her sleep she seems to be watching
 me she tries the door and finding it locked goes about the room
 searching for the key 
- 6 august another three days and no news this suspense is getting
+6 august another three days and no news this suspense is getting
 dreadful if i only knew where to write to or where to go to i should
 feel easier but no one has heard a word of jonathan since that last
 letter i must only pray to god for patience lucy is more excitable
@@ -2653,7 +2653,7 @@ chapter vii
 cutting from the dailygraph 8 august
  pasted in mina murrays journal 
 from a correspondent 
- whitby 
+whitby 
 one of the greatest and suddenest storms on record has just been
 experienced here with results both strange and unique the weather had
 been somewhat sultry but not to any degree uncommon in the month of
@@ -2837,11 +2837,11 @@ crowds are scattering homeward and the sky is beginning to redden over
 the yorkshire wolds i shall send in time for your next issue further
 details of the derelict ship which found her way so miraculously into
 harbour in the storm 
- whitby 
- 9 august the sequel to the strange arrival of the derelict in the
+whitby
+9 august the sequel to the strange arrival of the derelict in the
 storm last night is almost more startling than the thing itself it
 turns out that the schooner is a russian from varna and is called the
- demeter she is almost entirely in ballast of silver sand with only a
+demeter she is almost entirely in ballast of silver sand with only a
 small amount of cargo a number of great wooden boxes filled with mould 
 this cargo was consigned to a whitby solicitor mr s f billington of
 7 the crescent who this morning went aboard and formally took
@@ -2866,7 +2866,7 @@ dead in the roadway opposite to its masters yard it had been fighting
 and manifestly had had a savage opponent for its throat was torn away 
 and its belly was slit open as if with a savage claw 
  
- later by the kindness of the board of trade inspector i have been
+later by the kindness of the board of trade inspector i have been
 permitted to look over the log book of the demeter which was in order
 up to within three days but contained nothing of special interest
 except as to facts of missing men the greatest interest however is
@@ -2882,8 +2882,8 @@ statement must be taken cum grano since i am writing from the
 dictation of a clerk of the russian consul who kindly translated for
 me time being short 
  log of the demeter 
- varna to whitby 
- written 18 july things so strange happening that i shall keep
+varna to whitby 
+written 18 july things so strange happening that i shall keep
 accurate note henceforth till we land 
  
 on 6 july we finished taking in cargo silver sand and boxes of earth 
@@ -2935,12 +2935,12 @@ were no odd corners where a man could hide men much relieved when
 search over and went back to work cheerfully first mate scowled but
 said nothing 
  
- 22 july rough weather last three days and all hands busy with
+22 july rough weather last three days and all hands busy with
 sails no time to be frightened men seem to have forgotten their dread 
 mate cheerful again and all on good terms praised men for work in bad
 weather passed gibralter and out through straits all well 
  
- 24 july there seems some doom over this ship already a hand short 
+24 july there seems some doom over this ship already a hand short 
 and entering on the bay of biscay with wild weather ahead and yet last
 night another man lost disappeared like the first he came off his
 watch and was not seen again men all in a panic of fear sent a round
@@ -2948,25 +2948,25 @@ robin asking to have double watch as they fear to be alone mate
 angry fear there will be some trouble as either he or the men will do
 some violence 
  
- 28 july four days in hell knocking about in a sort of maelstrom 
+28 july four days in hell knocking about in a sort of maelstrom 
 and the wind a tempest no sleep for any one men all worn out hardly
 know how to set a watch since no one fit to go on second mate
 volunteered to steer and watch and let men snatch a few hours sleep 
 wind abating seas still terrific but feel them less as ship is
 steadier 
  
- 29 july another tragedy had single watch to night as crew too
+29 july another tragedy had single watch to night as crew too
 tired to double when morning watch came on deck could find no one
 except steersman raised outcry and all came on deck thorough search 
 but no one found are now without second mate and crew in a panic mate
 and i agreed to go armed henceforth and wait for any sign of cause 
  
- 30 july last night rejoiced we are nearing england weather fine 
+30 july last night rejoiced we are nearing england weather fine 
 all sails set retired worn out slept soundly awaked by mate telling
 me that both man of watch and steersman missing only self and mate and
 two hands left to work ship 
  
- 1 august two days of fog and not a sail sighted had hoped when in
+1 august two days of fog and not a sail sighted had hoped when in
 the english channel to be able to signal for help or get in somewhere 
 not having power to work sails have to run before wind dare not lower 
 as could not raise them again we seem to be drifting to some terrible
@@ -2975,7 +2975,7 @@ seems to have worked inwardly against himself men are beyond fear
 working stolidly and patiently with minds made up to worst they are
 russian he roumanian 
  
- 2 august midnight woke up from few minutes sleep by hearing a cry 
+2 august midnight woke up from few minutes sleep by hearing a cry 
 seemingly outside my port could see nothing in fog rushed on deck and
 ran against mate tells me heard cry and ran but no sign of man on
 watch one more gone lord help us mate says we must be past straits
@@ -2984,7 +2984,7 @@ he heard the man cry out if so we are now off in the north sea and
 only god can guide us in the fog which seems to move with us and god
 seems to have deserted us 
  
- 3 august at midnight i went to relieve the man at the wheel and
+3 august at midnight i went to relieve the man at the wheel and
 when i got to it found no one there the wind was steady and as we ran
 before it there was no yawing i dared not leave it so shouted for the
 mate after a few seconds he rushed up on deck in his flannels he
@@ -3024,7 +3024,7 @@ this madman who had got rid of the men one by one and now he has
 followed them himself god help me how am i to account for all these
 horrors when i get to port when i get to port will that ever be 
  
- 4 august still fog which the sunrise cannot pierce i know there is
+4 august still fog which the sunrise cannot pierce i know there is
 sunrise because i am a sailor why else i know not i dared not go
 below i dared not leave the helm so here all night i stayed and in
 the dimness of the night i saw it him god forgive me but the mate was
@@ -3054,8 +3054,8 @@ no trace has ever been found of the great dog at which there is much
 mourning for with public opinion in its present state he would i
 believe be adopted by the town to morrow will see the funeral and so
 will end this one more mystery of the sea 
- mina murrays journal 
- 8 august lucy was very restless all night and i too could not
+mina murrays journal 
+8 august lucy was very restless all night and i too could not
 sleep the storm was fearful and as it boomed loudly among the
 chimney pots it made me shudder when a sharp puff came it seemed to be
 like a distant gun strangely enough lucy did not wake but she got up
@@ -3073,9 +3073,9 @@ topped them was like snow forced themselves in through the narrow mouth
 of the harbour like a bullying man going through a crowd somehow i
 felt glad that jonathan was not on the sea last night but on land but 
 oh is he on land or sea where is he and how i am getting fearfully
-anxious about him if i only knew what to do and could do anything 
+anxious about him if i only knew what to do and could do anything
  
- 10 august the funeral of the poor sea captain to day was most
+10 august the funeral of the poor sea captain to day was most
 touching every boat in the harbour seemed to be there and the coffin
 was carried by captains all the way from tate hill pier up to the
 churchyard lucy came with me and we went early to our old seat whilst
@@ -3122,7 +3122,7 @@ shall take her for a long walk by the cliffs to robin hoods bay and
 back she ought not to have much inclination for sleep walking then 
 chapter viii
 mina murrays journal
- same day 11 oclock p m oh but i am tired if it were not that i
+same day 11 oclock p m oh but i am tired if it were not that i
 had made my diary a duty i should not open it to night we had a lovely
 walk lucy after a while was in gay spirits owing i think to some
 dear cows who came nosing towards us in a field close to the lighthouse 
@@ -3153,7 +3153,7 @@ because dear lucy seems better i really believe she has turned the
 corner and that we are over her troubles with dreaming i should be
 quite happy if i only knew if jonathan god bless and keep him 
  
- 11 august 3 a m diary again no sleep now so i may as well write 
+11 august 3 a m diary again no sleep now so i may as well write 
 i am too agitated to sleep we have had such an adventure such an
 agonising experience i fell asleep as soon as i had closed my diary 
 suddenly i became broad awake and sat up with a horrible sense of fear
@@ -3263,7 +3263,7 @@ so i hope i did right i have locked the door and the key is tied to
 my wrist so perhaps i shall not be again disturbed lucy is sleeping
 soundly the reflex of the dawn is high and far over the sea 
  
- same day noon all goes well lucy slept till i woke her and seemed
+same day noon all goes well lucy slept till i woke her and seemed
 not to have even changed her side the adventure of the night does not
 seem to have harmed her on the contrary it has benefited her for she
 looks better this morning than she has done for weeks i was sorry to
@@ -3275,7 +3275,7 @@ was a drop of blood when i apologised and was concerned about it she
 laughed and petted me and said she did not even feel it fortunately it
 cannot leave a scar as it is so tiny 
  
- same day night we passed a happy day the air was clear and the
+same day night we passed a happy day the air was clear and the
 sun bright and there was a cool breeze we took our lunch to mulgrave
 woods mrs westenra driving by the road and lucy and i walking by the
 cliff path and joining her at the gate i felt a little sad myself for
@@ -3287,7 +3287,7 @@ has been for some time and fell asleep at once i shall lock the door
 and secure the key the same as before though i do not expect any
 trouble to night 
  
- 12 august my expectations were wrong for twice during the night i
+12 august my expectations were wrong for twice during the night i
 was wakened by lucy trying to get out she seemed even in her sleep to
 be a little impatient at finding the door shut and went back to bed
 under a sort of protest i woke with the dawn and heard the birds
@@ -3299,7 +3299,7 @@ jonathan and then she tried to comfort me well she succeeded
 somewhat for though sympathy cant alter facts it can help to make
 them more bearable 
  
- 13 august another quiet day and to bed with the key on my wrist as
+13 august another quiet day and to bed with the key on my wrist as
 before again i awoke in the night and found lucy sitting up in bed 
 still asleep pointing to the window i got up quietly and pulling
 aside the blind looked out it was brilliant moonlight and the soft
@@ -3311,7 +3311,7 @@ and flitted away across the harbour towards the abbey when i came back
 from the window lucy had lain down again and was sleeping peacefully 
 she did not stir again all night 
  
- 14 august on the east cliff reading and writing all day lucy seems
+14 august on the east cliff reading and writing all day lucy seems
 to have become as much in love with the spot as i am and it is hard to
 get her away from it when it is time to come home for lunch or tea or
 dinner this afternoon she made a funny remark we were coming home for
@@ -3360,7 +3360,7 @@ there is a drawn haggard look under her eyes which i do not like i
 fear she is fretting about something i wish i could find out what it
 is 
  
- 15 august rose later than usual lucy was languid and tired and
+15 august rose later than usual lucy was languid and tired and
 slept on after we had been called we had a happy surprise at breakfast 
 arthurs father is better and wants the marriage to come off soon lucy
 is full of quiet joy and her mother is glad and sorry at once later on
@@ -3373,7 +3373,7 @@ her heart is weakening at any time even now a sudden shock would be
 almost sure to kill her ah we were wise to keep from her the affair of
 the dreadful night of lucys sleep walking 
  
- 17 august no diary for two whole days i have not had the heart to
+17 august no diary for two whole days i have not had the heart to
 write some sort of shadowy pall seems to be coming over our happiness 
 no news from jonathan and lucy seems to be growing weaker whilst her
 mothers hours are numbering to a close i do not understand lucys
@@ -3393,7 +3393,7 @@ they are still open and if anything larger than before and the
 edges of them are faintly white they are like little white dots with
 red centres unless they heal within a day or two i shall insist on the
 doctor seeing about them 
- letter samuel f billington son solicitors whitby to messrs 
+letter samuel f billington son solicitors whitby to messrs 
 carter paterson co london 
  17 august 
  dear sirs 
@@ -3422,7 +3422,7 @@ pressing you in all ways to use the utmost expedition
  we are dear sirs 
  faithfully yours 
  samuel f billington son 
- letter messrs carter paterson co london to messrs billington 
+letter messrs carter paterson co london to messrs billington 
 son whitby 
  21 august 
  dear sirs 
@@ -3433,8 +3433,8 @@ in main hall as directed
  we are dear sirs 
  yours respectfully 
  pro carter paterson co 
- mina murrays journal 
- 18 august i am happy to day and write sitting on the seat in the
+mina murrays journal 
+18 august i am happy to day and write sitting on the seat in the
 churchyard lucy is ever so much better last night she slept well all
 night and did not disturb me once the roses seem coming back already
 to her cheeks though she is still sadly pale and wan looking if she
@@ -3476,7 +3476,7 @@ fresh breeze had braced her up and her pale cheeks were really more
 rosy her mother rejoiced when she saw her and we all spent a very
 happy evening together 
  
- 19 august joy joy joy although not all joy at last news of
+19 august joy joy joy although not all joy at last news of
 jonathan the dear fellow has been ill that is why he did not write i
 am not afraid to think it or say it now that i know mr hawkins sent
 me on the letter and wrote himself oh so kindly i am to leave in the
@@ -3490,7 +3490,7 @@ dress lucy will bring my trunk to london and keep it till i send for
 it for it may be that i must write no more i must keep it to say
 to jonathan my husband the letter that he has seen and touched must
 comfort me till we meet 
- letter sister agatha hospital of st joseph and ste mary 
+letter sister agatha hospital of st joseph and ste mary 
 buda pesth to miss wilhelmina murray 
  12 august 
  dear madam 
@@ -3527,8 +3527,8 @@ sweetness and gentleness he is truly getting on well and i have no
 doubt will in a few weeks be all himself but be careful of him for
 safetys sake there are i pray god and st joseph and ste mary many 
 many happy years for you both 
- dr sewards diary 
- 19 august strange and sudden change in renfield last night about
+dr sewards diary 
+19 august strange and sudden change in renfield last night about
 eight oclock he began to get excited and sniff about as a dog does when
 setting the attendant was struck by his manner and knowing my interest
 in him encouraged him to talk he is usually respectful to the
@@ -3548,7 +3548,7 @@ he himself is god these infinitesimal distinctions between man and man
 are too paltry for an omnipotent being how these madmen give themselves
 away the real god taketh heed lest a sparrow fall but the god created
 from human vanity sees no difference between an eagle and a sparrow oh 
-if men only knew 
+if men only knew
 for half an hour or more renfield kept getting excited in greater and
 greater degree i did not pretend to be watching him but i kept strict
 observation all the same all at once that shifty look came into his
@@ -3575,7 +3575,7 @@ it grow into a habit no i shall take none to night i have thought of
 lucy and i shall not dishonour her by mixing the two if need be 
 to night shall be sleepless 
  
- later glad i made the resolution gladder that i kept to it i had
+later glad i made the resolution gladder that i kept to it i had
 lain tossing about and had heard the clock strike only twice when the
 night watchman came to me sent up from the ward to say that renfield
 had escaped i threw on my clothes and ran down at once my patient is
@@ -3630,7 +3630,7 @@ just now he spoke coherent words for the first time
 so i took the hint and came too i was too excited to sleep but this
 diary has quieted me and i feel i shall get some sleep to night 
 chapter ix
- letter mina harker to lucy westenra 
+letter mina harker to lucy westenra 
  buda pesth 24 august 
  my dearest lucy 
  i know you will be anxious to hear all that has happened since we
@@ -3659,7 +3659,7 @@ have no cause to be concerned he has not forgotten you or what he owes
 to you his fear was of great and terrible things which no mortal can
 treat of i do believe the dear soul thought i might be jealous lest my
 poor dear should have fallen in love with any other girl the idea of
- my being jealous about jonathan and yet my dear let me whisper i
+my being jealous about jonathan and yet my dear let me whisper i
 felt a thrill of joy through me when i knew that no other woman was a
 cause of trouble i am now sitting by his bedside where i can see his
 face while he sleeps he is waking 
@@ -3730,12 +3730,12 @@ in your own married life you too may be all happy as i am my dear
 please almighty god your life may be all it promises a long day of
 sunshine with no harsh wind no forgetting duty no distrust i must
 not wish you no pain for that can never be but i do hope you will be
- always as happy as i am now good bye my dear i shall post this at
+always as happy as i am now good bye my dear i shall post this at
 once and perhaps write you very soon again i must stop for jonathan
-is waking i must attend to my husband 
+is waking i must attend to my husband
  your ever loving
  mina harker 
- letter lucy westenra to mina harker 
+letter lucy westenra to mina harker 
  whitby 30 august 
  my dearest mina 
  oceans of love and millions of kisses and may you soon be in your own
@@ -3754,8 +3754,8 @@ so no more just at present from your loving
  lucy 
  p s mother sends her love she seems better poor dear p p 
 s we are to be married on 28 september 
- dr sewards diary 
- 20 august the case of renfield grows even more interesting he has
+dr sewards diary 
+20 august the case of renfield grows even more interesting he has
 now so far quieted that there are spells of cessation from his passion 
 for the first week after his attack he was perpetually violent then one
 night just as the moon rose he grew quiet and kept murmuring to
@@ -3792,17 +3792,17 @@ escaped before without our help to night he shall escape with it we
 shall give him a chance and have the men ready to follow in case they
 are required 
  
- 23 august the unexpected always happens how well disraeli knew
+23 august the unexpected always happens how well disraeli knew
 life our bird when he found the cage open would not fly so all our
 subtle arrangements were for nought at any rate we have proved one
 thing that the spells of quietness last a reasonable time we shall in
 future be able to ease his bonds for a few hours each day i have given
 orders to the night attendant merely to shut him in the padded room 
 when once he is quiet until an hour before sunrise the poor souls
-body will enjoy the relief even if his mind cannot appreciate it hark 
+body will enjoy the relief even if his mind cannot appreciate it hark
 the unexpected again i am called the patient has once more escaped 
  
- later another night adventure renfield artfully waited until the
+later another night adventure renfield artfully waited until the
 attendant was entering the room to inspect then he dashed out past him
 and flew down the passage i sent word for the attendants to follow 
 again he went into the grounds of the deserted house and we found him
@@ -3820,8 +3820,8 @@ presently said
  you neednt tie me i shall go quietly without trouble we came back
 to the house i feel there is something ominous in his calm and shall
 not forget this night 
- lucy westenras diary 
- hillingham 24 august i must imitate mina and keep writing things
+lucy westenras diary
+hillingham 24 august i must imitate mina and keep writing things
 down then we can have long talks when we do meet i wonder when it will
 be i wish she were with me again for i feel so unhappy last night i
 seemed to be dreaming again just as i was at whitby perhaps it is the
@@ -3832,7 +3832,7 @@ when he saw me and i hadnt the spirit to try to be cheerful i wonder
 if i could sleep in mothers room to night i shall make an excuse and
 try 
  
- 25 august another bad night mother did not seem to take to my
+25 august another bad night mother did not seem to take to my
 proposal she seems not too well herself and doubtless she fears to
 worry me i tried to keep awake and succeeded for a while but when the
 clock struck twelve it waked me from a doze so i must have been falling
@@ -3843,7 +3843,7 @@ morning i am horribly weak my face is ghastly pale and my throat pains
 me it must be something wrong with my lungs for i dont seem ever to
 get air enough i shall try to cheer up when arthur comes or else i
 know he will be miserable to see me so 
- letter arthur holmwood to dr seward 
+letter arthur holmwood to dr seward 
  albemarle hotel 31 august 
  my dear jack 
  i want you to do me a favour lucy is ill that is she has no special
@@ -3862,13 +3862,13 @@ hillingham to morrow two oclock so as not to arouse any suspicion in
 mrs westenra and after lunch lucy will take an opportunity of being
 alone with you i shall come in for tea and we can go away together i
 am filled with anxiety and want to consult with you alone as soon as i
-can after you have seen her do not fail 
+can after you have seen her do not fail
  arthur 
- telegram arthur holmwood to seward 
+telegram arthur holmwood to seward 
  1 september 
  am summoned to see my father who is worse am writing write me fully
 by to nights post to ring wire me if necessary 
- letter from dr seward to arthur holmwood 
+letter from dr seward to arthur holmwood 
  2 september 
  my dear old fellow 
  with regard to miss westenras health i hasten to let you know at once
@@ -3939,7 +3939,7 @@ to morrow again she is to meet me at the stores so that i may not
 alarm her mother by too early a repetition of my call 
  yours always 
  john seward 
- letter abraham van helsing m d d ph d lit etc etc to dr 
+letter abraham van helsing m d d ph d lit etc etc to dr 
 seward 
  2 september 
  my good friend 
@@ -3958,7 +3958,7 @@ late on to morrow for it is likely that i may have to return here that
 night but if need be i shall come again in three days and stay longer
 if it must till then good bye my friend john 
  van helsing 
- letter dr seward to hon arthur holmwood 
+letter dr seward to hon arthur holmwood 
  3 september 
  my dear art 
  van helsing has come and gone he came on with me to hillingham and
@@ -3977,7 +3977,7 @@ be angry with me art because his very reticence means that all his
 brains are working for her good he will speak plainly enough when the
 time comes be sure so i told him i would simply write an account of
 our visit just as if i were doing a descriptive special article for
- the daily telegraph he seemed not to notice but remarked that the
+the daily telegraph he seemed not to notice but remarked that the
 smuts in london were not quite so bad as they used to be when he was a
 student here i am to get his report to morrow if he can possibly make
 it in any case i am to have a letter 
@@ -4027,8 +4027,8 @@ are both so dear to you i know your idea of duty to your father and
 you are right to stick to it but if need be i shall send you word to
 come at once to lucy so do not be over anxious unless you hear from
 me 
- dr sewards diary 
- 4 september zo phagous patient still keeps up our interest in him 
+dr sewards diary 
+4 september zo phagous patient still keeps up our interest in him 
 he had only one outburst and that was yesterday at an unusual time just
 before the stroke of noon he began to grow restless the attendant knew
 the symptoms and at once summoned aid fortunately the men came at a
@@ -4045,7 +4045,7 @@ as yet my patient sits in a corner brooding with a dull sullen
 woe begone look in his face which seems rather to indicate than to show
 something directly i cannot quite understand it 
  
- later another change in my patient at five oclock i looked in on
+later another change in my patient at five oclock i looked in on
 him and found him seemingly as happy and contented as he used to be he
 was catching flies and eating them and was keeping note of his capture
 by making nail marks on the edge of the door between the ridges of
@@ -4070,7 +4070,7 @@ it and there are people who know so little as to think that madmen do
 not argue i procured him a double supply and left him as happy a man
 as i suppose any in the world i wish i could fathom his mind 
  
- midnight another change in him i had been to see miss westenra 
+midnight another change in him i had been to see miss westenra 
 whom i found much better and had just returned and was standing at our
 own gate looking at the sunset when once more i heard him yelling as
 his room is on this side of the house i could hear it better than in
@@ -4097,16 +4097,16 @@ after all if we can find why to day his paroxysms came on at high noon
 and at sunset can it be that there is a malign influence of the sun at
 periods which affects certain natures as at times the moon does others 
 we shall see 
- telegram seward london to van helsing amsterdam 
+telegram seward london to van helsing amsterdam 
  4 september patient still better to day 
- telegram seward london to van helsing amsterdam 
+telegram seward london to van helsing amsterdam 
  5 september patient greatly improved good appetite sleeps
 naturally good spirits colour coming back 
- telegram seward london to van helsing amsterdam 
+telegram seward london to van helsing amsterdam 
  6 september terrible change for the worse come at once do not
 lose an hour i hold over telegram to holmwood till have seen you 
 chapter x
- letter dr seward to hon arthur holmwood 
+letter dr seward to hon arthur holmwood 
  6 september 
  my dear art 
  my news to day is not so good lucy this morning had gone back a bit 
@@ -4124,8 +4124,8 @@ do not hear from me take it for granted that i am simply waiting for
 news in haste
 yours ever 
  john seward 
- dr sewards diary 
- 7 september the first thing van helsing said to me when we met at
+dr sewards diary 
+7 september the first thing van helsing said to me when we met at
 liverpool street was 
  have you said anything to our young friend the lover of her 
  no i said i waited till i had seen you as i said in my telegram i
@@ -4336,8 +4336,8 @@ later and put his head inside the door and said with warning finger held
 up 
  remember she is your charge if you leave her and harm befall you
 shall not sleep easy hereafter 
- dr sewards diary continued 
- 8 september i sat up all night with lucy the opiate worked itself
+dr sewards diary continued 
+8 september i sat up all night with lucy the opiate worked itself
 off towards dusk and she waked naturally she looked a different being
 from what she had been before the operation her spirits even were good 
 and she was full of a happy vivacity but i could see evidences of the
@@ -4383,7 +4383,7 @@ i was at dinner suggesting that i should be at hillingham to night as
 it might be well to be at hand and stating that he was leaving by the
 night mail and would join me early in the morning 
  
- 9 september i was pretty tired and worn out when i got to
+9 september i was pretty tired and worn out when i got to
 hillingham for two nights i had hardly had a wink of sleep and my
 brain was beginning to feel that numbness which marks cerebral
 exhaustion lucy was up and in cheerful spirits when she shook hands
@@ -4402,8 +4402,8 @@ shall call out and you can come to me at once i could not but
 acquiesce for i was dog tired and could not have sat up had i tried 
 so on her renewing her promise to call me if she should want anything 
 i lay on the sofa and forgot all about everything 
- lucy westenras diary 
- 9 september i feel so happy to night i have been so miserably weak 
+lucy westenras diary 
+9 september i feel so happy to night i have been so miserably weak 
 that to be able to think and move about is like feeling sunshine after
 a long spell of east wind out of a steel sky somehow arthur feels very 
 very close to me i seem to feel his presence warm about me i suppose
@@ -4414,10 +4414,10 @@ where my thoughts are if arthur only knew my dear my dear your ears
 must tingle as you sleep as mine do waking oh the blissful rest of
 last night how i slept with that dear good dr seward watching me 
 and to night i shall not fear to sleep since he is close at hand and
-within call thank everybody for being so good to me thank god 
+within call thank everybody for being so good to me thank god
 good night arthur 
- dr sewards diary 
- 10 september i was conscious of the professors hand on my head and
+dr sewards diary 
+10 september i was conscious of the professors hand on my head and
 started awake all in a second that is one of the things that we learn
 in an asylum at any rate 
  and how is our patient 
@@ -4520,7 +4520,7 @@ similar instances of womans kindness i got back here in time for a
 late dinner went my rounds all well and set this down whilst waiting
 for sleep it is coming 
  
- 11 september this afternoon i went over to hillingham found van
+11 september this afternoon i went over to hillingham found van
 helsing in excellent spirits and lucy much better shortly after i had
 arrived a big parcel from abroad came for the professor he opened it
 with much impressment assumed of course and showed a great bundle of
@@ -4591,8 +4591,8 @@ before and with the baneful result felt awe and vague terror it must
 have been my weakness that made me hesitate to tell it to my friend but
 i felt it all the more like unshed tears 
 chapter xi
- lucy westenras diary 
- 12 september how good they all are to me i quite love that dear dr 
+lucy westenras diary 
+12 september how good they all are to me i quite love that dear dr 
 van helsing i wonder why he was so anxious about these flowers he
 positively frightened me he was so fierce and yet he must have been
 right for i feel comfort from them already somehow i do not dread
@@ -4604,11 +4604,11 @@ for me how blessed are some people whose lives have no fears no
 dreads to whom sleep is a blessing that comes nightly and brings
 nothing but sweet dreams well here i am to night hoping for sleep 
 and lying like ophelia in the play with virgin crants and maiden
-strewments i never liked garlic before but to night it is delightful 
+strewments i never liked garlic before but to night it is delightful
 there is peace in its smell i feel sleep coming already good night 
 everybody 
- dr sewards diary 
- 13 september called at the berkeley and found van helsing as usual 
+dr sewards diary 
+13 september called at the berkeley and found van helsing as usual 
 up to time the carriage ordered from the hotel was waiting the
 professor took his bag which he always brings with him now 
 let all be put down exactly van helsing and i arrived at hillingham at
@@ -4647,7 +4647,7 @@ raised his hands over his head in a sort of mute despair and then beat
 his palms together in a helpless way finally he sat down on a chair 
 and putting his hands before his face began to sob with loud dry sobs
 that seemed to come from the very racking of his heart then he raised
-his arms again as though appealing to the whole universe god god 
+his arms again as though appealing to the whole universe god god
 god he said what have we done what has this poor thing done that
 we are so sore beset is there fate amongst us still sent down from the
 pagan world of old that such things must be and in such way this poor
@@ -4684,8 +4684,8 @@ after another hour lucy waked from her sleep fresh and bright and
 seemingly not much the worse for her terrible ordeal 
 what does it all mean i am beginning to wonder if my long habit of life
 amongst the insane is beginning to tell upon my own brain 
- lucy westenras diary 
- 17 september four days and nights of peace i am getting so strong
+lucy westenras diary 
+17 september four days and nights of peace i am getting so strong
 again that i hardly know myself it is as if i had passed through some
 long nightmare and had just awakened to see the beautiful sunshine and
 feel the fresh air of the morning around me i have a dim
@@ -4785,9 +4785,9 @@ bagful
  well it was a odd thing but when the animiles see us a talkin they
 lay down and when i went over to bersicker he let me stroke his ears
 same as ever that there man kem over and blessed but if he didnt put
-in his hand and stroke the old wolfs ears too 
+in his hand and stroke the old wolfs ears too
  tyke care says i bersicker is quick 
- never mind he says im used to em 
+ never mind he says im used to em
  are you in the business yourself i says tyking off my at for a
 man what trades in wolves anceterer is a good friend to keepers 
  no says he not exactly in the business but i ave made pets of
@@ -4881,8 +4881,8 @@ satisfied in quantity at any rate the elementary conditions of the
 fatted calf and went off to report 
 i came off too to report the only exclusive information that is given
 to day regarding the strange escapade at the zoo 
- dr sewards diary 
- 17 september i was engaged after dinner in my study posting up my
+dr sewards diary 
+17 september i was engaged after dinner in my study posting up my
 books which through press of other work and the many visits to lucy 
 had fallen sadly into arrear suddenly the door was burst open and in
 rushed my patient with his face distorted with passion i was
@@ -4901,7 +4901,7 @@ attendants rushed in and we turned our attention to him his employment
 positively sickened me he was lying on his belly on the floor licking
 up like a dog the blood which had fallen from my wounded wrist he was
 easily secured and to my surprise went with the attendants quite
-placidly simply repeating over and over again the blood is the life 
+placidly simply repeating over and over again the blood is the life
 the blood is the life 
 i cannot afford to lose blood just at present i have lost too much of
 late for my physical good and then the prolonged strain of lucys
@@ -4909,23 +4909,23 @@ illness and its horrible phases is telling on me i am over excited and
 weary and i need rest rest rest happily van helsing has not summoned
 me so i need not forego my sleep to night i could not well do without
 it 
- telegram van helsing antwerp to seward carfax 
+telegram van helsing antwerp to seward carfax 
  sent to carfax sussex as no county given delivered late by
 twenty two hours 
  17 september do not fail to be at hillingham to night if not
 watching all the time frequently visit and see that flowers are as
 placed very important do not fail shall be with you as soon as
 possible after arrival 
- dr sewards diary 
- 18 september just off for train to london the arrival of van
+dr sewards diary 
+18 september just off for train to london the arrival of van
 helsings telegram filled me with dismay a whole night lost and i know
 by bitter experience what may happen in a night of course it is
 possible that all may be well but what may have happened surely
 there is some horrible doom hanging over us that every possible accident
 should thwart us in all we try to do i shall take this cylinder with
 me and then i can complete my entry on lucys phonograph 
- memorandum left by lucy westenra 
- 17 september night i write this and leave it to be seen so that no
+memorandum left by lucy westenra 
+17 september night i write this and leave it to be seen so that no
 one may by any chance get into trouble through me this is an exact
 record of what took place to night i feel i am dying of weakness and
 have barely strength to write but it must be done if i die in the
@@ -5013,10 +5013,10 @@ the window and the lights burn blue and dim what am i to do god
 shield me from harm this night i shall hide this paper in my breast 
 where they shall find it when they come to lay me out my dear mother
 gone it is time that i go too good bye dear arthur if i should not
-survive this night god keep you dear and god help me 
+survive this night god keep you dear and god help me
 chapter xii
 dr sewards diary
- 18 september i drove at once to hillingham and arrived early 
+18 september i drove at once to hillingham and arrived early 
 keeping my cab at the gate i went up the avenue alone i knocked gently
 and rang as quietly as possible for i feared to disturb lucy or her
 mother and hoped to only bring a servant to the door after a while 
@@ -5221,7 +5221,7 @@ and wanted to marry her but although thats all past and gone i cant
 help feeling anxious about her all the same what is it thats wrong
 with her the dutchman and a fine old fellow he is i can see
 that said that time you two came into the room that you must have
- another transfusion of blood and that both you and he were exhausted 
+another transfusion of blood and that both you and he were exhausted 
 now i know well that you medical men speak in camera and that a man
 must not expect to know what they consult about in private but this is
 no common matter and whatever it is i have done my part is not that
@@ -5281,7 +5281,7 @@ hands finally she lifted her hands and opened them as though scattering
 the fragments van helsing seemed surprised and his brows gathered as
 if in thought but he said nothing 
  
- 19 september all last night she slept fitfully being always afraid
+19 september all last night she slept fitfully being always afraid
 to sleep and something weaker when she woke from it the professor and
 i took it in turns to watch and we never left her for a moment
 unattended quincey morris said nothing about his intention but i knew
@@ -5312,7 +5312,7 @@ her i am to relieve them in a quarter of an hour and i am entering
 this on lucys phonograph until six oclock they are to try to rest i
 fear that to morrow will end our watching for the shock has been too
 great the poor child cannot rally god help us all 
- letter mina harker to lucy westenra 
+letter mina harker to lucy westenra 
  unopened by her 
  17 september 
  my dearest lucy 
@@ -5358,7 +5358,7 @@ of the verb i send you simply his love instead good bye my dearest
 lucy and all blessings on you 
  yours 
  mina harker 
- report from patrick hennessey m d m r c s l k q c p i 
+report from patrick hennessey m d m r c s l k q c p i 
 etc etc to john seward m d 
  20 september 
  my dear sir 
@@ -5408,7 +5408,7 @@ seized him also and struggled with the three of us pulling us to and
 fro as if we were kittens you know i am no light weight and the others
 were both burly men at first he was silent in his fighting but as we
 began to master him and the attendants were putting a strait waistcoat
-on him he began to shout ill frustrate them they shant rob me 
+on him he began to shout ill frustrate them they shant rob me
 they shant murder me by inches ill fight for my lord and master and
 all sorts of similar incoherent ravings it was with very considerable
 difficulty that they got him back to the house and put him in the padded
@@ -5438,7 +5438,7 @@ wire you at once if there is anything of importance
  believe me dear sir 
  yours faithfully 
  patrick hennessey 
- letter mina harker to lucy westenra 
+letter mina harker to lucy westenra 
  unopened by her 
  18 september 
  my dearest lucy 
@@ -5452,7 +5452,7 @@ and now at the end has treated him like his own son and left him a
 fortune which to people of our modest bringing up is wealth beyond the
 dream of avarice but jonathan feels it on another account he says the
 amount of responsibility which it puts upon him makes him nervous he
-begins to doubt himself i try to cheer him up and my belief in him 
+begins to doubt himself i try to cheer him up and my belief in him
 helps him to have a belief in himself but it is here that the grave
 shock that he experienced tells upon him the most oh it is too hard
 that a sweet simple noble strong nature such as his a nature which
@@ -5469,8 +5469,8 @@ mourner i shall try to run over to see you dearest if only for a few
 minutes forgive me for troubling you with all blessings 
  your loving
  mina harker 
- dr sewards diary 
- 20 september only resolution and habit can let me make an entry
+dr sewards diary 
+20 september only resolution and habit can let me make an entry
 to night i am too miserable too low spirited too sick of the world
 and all in it including life itself that i would not care if i heard
 this moment the flapping of the wings of the angel of death and he has
@@ -5661,7 +5661,7 @@ and i and rest to recuperate to morrow we shall have much to do but
 for the to night there is no need of us alas 
 before turning in we went to look at poor lucy the undertaker had
 certainly done his work well for the room was turned into a small
- chapelle ardente there was a wilderness of beautiful white flowers 
+chapelle ardente there was a wilderness of beautiful white flowers 
 and death was made as little repulsive as might be the end of the
 winding sheet was laid over the face when the professor bent over and
 turned it gently back we both started at the beauty before us the tall
@@ -5713,7 +5713,7 @@ horrified when i would not let arthur kiss his love though she was
 dying and snatched him away by all my strength yes and yet you saw
 how she thanked me with her so beautiful dying eyes her voice too so
 weak and she kiss my rough old hand and bless me yes and did you not
-hear me swear promise to her that so she closed her eyes grateful yes 
+hear me swear promise to her that so she closed her eyes grateful yes
  well i have good reason now for all i want to do you have for many
 years trust me you have believe me weeks past when there be things so
 strange that you might have well doubt believe me yet a little friend
@@ -5791,7 +5791,7 @@ true to his craft had made the best display he could of his goods and
 there was a mortuary air about the place that lowered our spirits at
 once van helsing ordered the former arrangement to be adhered to 
 explaining that as lord godalming was coming very soon it would be
-less harrowing to his feelings to see all that was left of his fianc e 
+less harrowing to his feelings to see all that was left of his fianc e
 quite alone the undertaker seemed shocked at his own stupidity and
 exerted himself to restore things to the condition in which we left them
 the night before so that when arthur came such shocks to his feelings
@@ -5904,8 +5904,8 @@ bed at all he went to and fro as if patrolling the house and was
 never out of sight of the room where lucy lay in her coffin strewn with
 the wild garlic flowers which sent through the odour of lily and rose 
 a heavy overpowering smell into the night 
- mina harkers journal 
- 22 september in the train to exeter jonathan sleeping 
+mina harkers journal 
+22 september in the train to exeter jonathan sleeping 
 it seems only yesterday that the last entry was made and yet how much
 between then in whitby and all the world before me jonathan away and
 no news of him and now married to jonathan jonathan a solicitor a
@@ -5978,7 +5978,7 @@ learn the facts of his journey abroad the time is come i fear when i
 must open that parcel and know what is written oh jonathan you will 
 i know forgive me if i do wrong but it is for your own dear sake 
  
- later a sad home coming in every way the house empty of the dear
+later a sad home coming in every way the house empty of the dear
 soul who was so good to us jonathan still pale and dizzy under a slight
 relapse of his malady and now a telegram from van helsing whoever he
 may be 
@@ -5988,8 +5988,8 @@ oh what a wealth of sorrow in a few words poor mrs westenra poor
 lucy gone gone never to return to us and poor poor arthur to have
 lost such sweetness out of his life god help us all to bear our
 troubles 
- dr sewards diary 
- 22 september it is all over arthur has gone back to ring and has
+dr sewards diary 
+22 september it is all over arthur has gone back to ring and has
 taken quincey morris with him what a fine fellow is quincey i believe
 in my heart of hearts that he suffered as much about lucys death as any
 of us but he bore himself through it like a moral viking if america
@@ -6061,7 +6061,7 @@ tone
 flowers that looked so fair as life till one by one we wondered if she
 were truly dead she laid in that so fine marble house in that lonely
 churchyard where rest so many of her kin laid there with the mother
-who loved her and whom she loved and that sacred bell going toll 
+who loved her and whom she loved and that sacred bell going toll
 toll toll so sad and slow and those holy men with the white
 garments of the angel pretending to read books and yet all the time
 their eyes never on the page and all of us with the bowed head and all
@@ -6151,7 +6151,7 @@ looked quite emaciated it too when partially restored had the common
 story to tell of being lured away by the bloofer lady 
 chapter xiv
 mina harkers journal
- 23 september jonathan is better after a bad night i am so glad that
+23 september jonathan is better after a bad night i am so glad that
 he has plenty of work to do for that keeps his mind off the terrible
 things and oh i am rejoiced that he is not now weighed down with the
 responsibility of his new position i knew he would be true to himself 
@@ -6160,7 +6160,7 @@ advancement and keeping pace in all ways with the duties that come upon
 him he will be away all day till late for he said he could not lunch
 at home my household work is done so i shall take his foreign journal 
 and lock myself up in my room and read it 
- 24 september i hadnt the heart to write last night that terrible
+24 september i hadnt the heart to write last night that terrible
 record of jonathans upset me so poor dear how he must have suffered 
 whether it be true or only imagination i wonder if there is any truth
 in it at all did he get his brain fever and then write all those
@@ -6181,7 +6181,7 @@ poor jonathan may not be upset for i can speak for him and never let
 him be troubled or worried with it at all if ever jonathan quite gets
 over the nervousness he may want to tell me of it all and i can ask him
 questions and find out things and see how i may comfort him 
- letter van helsing to mrs harker 
+letter van helsing to mrs harker 
  24 september 
  confidence 
  dear madam 
@@ -6201,12 +6201,12 @@ pardon madam i have read your letters to poor lucy and know how good
 you are and how your husband suffer so i pray you if it may be 
 enlighten him not lest it may harm again your pardon and forgive me 
  van helsing 
- telegram mrs harker to van helsing 
+telegram mrs harker to van helsing 
  25 september come to day by quarter past ten train if you can catch
 it can see you any time you call 
  wilhelmina harker 
 mina harkers journal 
- 25 september i cannot help feeling terribly excited as the time
+25 september i cannot help feeling terribly excited as the time
 draws near for the visit of dr van helsing for somehow i expect that
 it will throw some light upon jonathans sad experience and as he
 attended poor dear lucy in her last illness he can tell me all about
@@ -6234,7 +6234,7 @@ now i shall say nothing of jonathans journal unless he asks me i am
 so glad i have type written out my own journal so that in case he asks
 about lucy i can hand it to him it will save much questioning 
  
- later he has come and gone oh what a strange meeting and how it
+later he has come and gone oh what a strange meeting and how it
 all makes my head whirl round i feel like one in a dream can it be all
 possible or even a part of it if i had not read jonathans journal
 first i should never have accepted even a possibility poor poor dear
@@ -6422,7 +6422,7 @@ case he is in a hurry
 so he took the papers with him and went away and i sit here
 thinking thinking i dont know what 
  
- letter by hand van helsing to mrs harker 
+letter by hand van helsing to mrs harker 
  25 september 6 oclock 
  dear madam mina 
  i have read your husbands so wonderful diary you may sleep without
@@ -6438,7 +6438,7 @@ i have learn all at once so much that again i am dazzle dazzle more
 than ever and i must think 
  yours the most faithful 
  abraham van helsing 
- letter mrs harker to van helsing 
+letter mrs harker to van helsing 
  25 september 6 30 p m 
  my dear dr van helsing 
  a thousand thanks for your kind letter which has taken a great weight
@@ -6455,8 +6455,8 @@ if i do not hear you will come to breakfast
  believe me 
  your faithful and grateful friend 
  mina harker 
- jonathan harkers journal 
- 26 september i thought never to write in this diary again but the
+jonathan harkers journal 
+26 september i thought never to write in this diary again but the
 time has come when i got home last night mina had supper ready and
 when we had supped she told me of van helsings visit and of her having
 given him the two diaries copied out and of how anxious she has been
@@ -6525,8 +6525,8 @@ think he remembered me at the moment just then the whistle blew and
 the train moved off this recalled him to himself and he leaned out of
 the window and waved his hand calling out love to madam mina i shall
 write so soon as ever i can 
- dr sewards diary 
- 26 september truly there is no such thing as finality not a week
+dr sewards diary 
+26 september truly there is no such thing as finality not a week
 since i said finis and yet here i am starting fresh again or rather
 going on with the same record until this afternoon i had no cause to
 think of what is done renfield had become to all intents as sane as
@@ -6871,7 +6871,7 @@ i cannot sleep so i make this entry but i must try to get a few hours
 sleep as van helsing is to call for me at noon he insists that i shall
 go with him on another expedition 
  
- 27 september it was two oclock before we found a suitable
+27 september it was two oclock before we found a suitable
 opportunity for our attempt the funeral held at noon was all completed 
 and the last stragglers of the mourners had taken themselves lazily
 away when looking carefully from behind a clump of alder trees we saw
@@ -6981,7 +6981,7 @@ shall all have work to do i come with you so far as piccadilly and
 there dine for i must be back here before the sun set 
 so we locked the tomb and came away and got over the wall of the
 churchyard which was not much of a task and drove back to piccadilly 
- note left by van helsing in his portmanteau berkeley hotel directed to
+note left by van helsing in his portmanteau berkeley hotel directed to
 john seward m d 
  not delivered 
  27 september 
@@ -7014,12 +7014,12 @@ great un dead and cut off his head and burn his heart or drive a stake
 through it so that the world may rest from him 
  if it be so farewell 
  van helsing 
- dr sewards diary 
- 28 september it is wonderful what a good nights sleep will do for
+dr sewards diary 
+28 september it is wonderful what a good nights sleep will do for
 one yesterday i was almost willing to accept van helsings monstrous
 ideas but now they seem to start out lurid before me as outrages on
 common sense i have no doubt that he believes it all i wonder if his
-mind can have become in any way unhinged surely there must be some 
+mind can have become in any way unhinged surely there must be some
 rational explanation of all these mysterious things is it possible that
 the professor can have done it himself he is so abnormally clever that
 if he went off his head he would carry out his intent with regard to
@@ -7028,7 +7028,7 @@ it would be almost as great a marvel as the other to find that van
 helsing was mad but anyhow i shall watch him carefully i may get some
 light on the mystery 
  
- 29 september morning last night at a little before ten oclock 
+29 september morning last night at a little before ten oclock 
 arthur and quincey came into van helsings room he told us all that he
 wanted us to do but especially addressing himself to arthur as if all
 our wills were centred in his he began by saying that he hoped we would
@@ -7071,7 +7071,7 @@ that if you feel it necessary to condemn any act of mine you will first
 consider it well and be satisfied that it does not violate your
 reservations 
  agreed said arthur that is only fair and now that the
- pourparlers are over may i ask what it is we are to do 
+pourparlers are over may i ask what it is we are to do 
  i want you to come with me and to come in secret to the churchyard at
 kingstead 
 arthurs face fell as he said in an amazed sort of way 
@@ -7150,7 +7150,7 @@ by it he took the old mans hand and said in a broken voice
  oh it is hard to think of it and i cannot understand but at least i
 shall go with you and wait 
 chapter xvi
-dr sewards diary continued 
+dr sewards diary continued
 it was just a quarter before twelve oclock when we got into the
 churchyard over the low wall the night was dark with occasional gleams
 of moonlight between the rents of the heavy clouds that scudded across
@@ -7176,7 +7176,7 @@ the blood rushed to his face for an instant but as quickly fell away
 again so that he remained of a ghastly whiteness he was still silent 
 van helsing forced back the leaden flange and we all looked in and
 recoiled 
-the coffin was empty 
+the coffin was empty
 for several minutes no one spoke a word the silence was broken by
 quincey morris 
  professor i answered for you your word is all i want i wouldnt ask
@@ -7345,7 +7345,7 @@ arthur and quincey came home with me and we tried to cheer each other
 on the way we had left the child in safety and were tired so we all
 slept with more or less reality of sleep 
  
- 29 september night a little before twelve oclock we three arthur 
+29 september night a little before twelve oclock we three arthur 
 quincey morris and myself called for the professor it was odd to
 notice that by common consent we had all put on black clothes of
 course arthur wore black for he was in deep mourning but the rest of
@@ -7522,7 +7522,7 @@ then our promise shall be made to each other anew for there is a
 terrible task before us and once our feet are on the ploughshare we
 must not draw back 
 chapter xvii
-dr sewards diary continued 
+dr sewards diary continued
 when we arrived at the berkeley hotel van helsing found a telegram
 waiting for him 
  am coming up by train jonathan at whitby important news mina
@@ -7571,9 +7571,9 @@ the papers which van helsing left with me though they lie open before
 me i must get her interested in something so that i may have an
 opportunity of reading them she does not know how precious time is or
 what a task we have in hand i must be careful not to frighten her here
-she is 
- mina harkers journal 
- 29 september after i had tidied myself i went down to dr sewards
+she is
+mina harkers journal 
+29 september after i had tidied myself i went down to dr sewards
 study at the door i paused a moment for i thought i heard him talking
 with some one as however he had pressed me to be quick i knocked at
 the door and on his calling out come in i entered 
@@ -7642,8 +7642,8 @@ able to understand certain things he carried the phonograph himself up
 to my sitting room and adjusted it for me now i shall learn something
 pleasant i am sure for it will tell me the other side of a true love
 episode of which i know one side already 
- dr sewards diary 
- 29 september i was so absorbed in that wonderful diary of jonathan
+dr sewards diary 
+29 september i was so absorbed in that wonderful diary of jonathan
 harker and that other of his wife that i let the time run on without
 thinking mrs harker was not down when the maid came to announce
 dinner so i said she is possibly tired let dinner wait an hour and
@@ -7690,8 +7690,8 @@ we have a cruel and dreadful task when you have eaten you shall learn
 the rest and i shall answer any questions you ask if there be anything
 which you do not understand though it was apparent to us who were
 present 
- mina harkers journal 
- 29 september after dinner i came with dr seward to his study he
+mina harkers journal 
+29 september after dinner i came with dr seward to his study he
 brought back the phonograph from my room and i took my typewriter he
 placed me in a comfortable chair and arranged the phonograph so that i
 could touch it without getting up and showed me how to stop it in case
@@ -7734,8 +7734,8 @@ gazette of which i had made cuttings helped us to understand the
 terrible events at whitby when count dracula landed so i shall look
 through the evening papers since then and perhaps i shall get some new
 light i am not sleepy and the work will help to keep me quiet 
- dr sewards diary 
- 30 september mr harker arrived at nine oclock he had got his
+dr sewards diary 
+30 september mr harker arrived at nine oclock he had got his
 wifes wire just before starting he is uncommonly clever if one can
 judge from his face and full of energy if this journal be true and
 judging by ones own wonderful experiences it must be he is also a man
@@ -7744,7 +7744,7 @@ remarkable piece of daring after reading his account of it i was
 prepared to meet a good specimen of manhood but hardly the quiet 
 business like gentleman who came here to day 
  
- later after lunch harker and his wife went back to their own room 
+later after lunch harker and his wife went back to their own room 
 and as i passed a while ago i heard the click of the typewriter they
 are hard at it mrs harker says that they are knitting together in
 chronological order every scrap of evidence they have harker has got
@@ -7756,7 +7756,7 @@ is
  the counts hiding place goodness knows that we had enough clues
  from the conduct of the patient renfield the bundle of letters
  relating to the purchase of the house were with the typescript oh 
- if we had only had them earlier we might have saved poor lucy 
+ if we had only had them earlier we might have saved poor lucy
  stop that way madness lies harker has gone back and is again
  collating his material he says that by dinner time they will be
  able to show a whole connected narrative he thinks that in the
@@ -7786,8 +7786,8 @@ is
  and then so i came away i mistrust these quiet moods of his so
  i have given the attendant a hint to look closely after him and to
  have a strait waistcoat ready in case of need 
- jonathan harkers journal 
- 29 september in train to london when i received mr billingtons
+jonathan harkers journal 
+29 september in train to london when i received mr billingtons
 courteous message that he would give me any information in his power i
 thought it best to go down to whitby and make on the spot such
 inquiries as i wanted it was now my object to trace that horrid cargo
@@ -7825,7 +7825,7 @@ elapsed had not completely allayed it needless to add i took care
 before leaving to lift for ever and adequately this source of
 reproach 
  
- 30 september the station master was good enough to give me a line to
+30 september the station master was good enough to give me a line to
 his old companion the station master at kings cross so that when i
 arrived there in the morning i was able to ask him about the arrival of
 the boxes he too put me at once in communication with the proper
@@ -7863,10 +7863,10 @@ i shall try to see the carter who took away the boxes from carfax when
 renfield attacked them by following up this clue we may learn a good
 deal 
  
- later mina and i have worked all day and we have put all the papers
+later mina and i have worked all day and we have put all the papers
 into order 
- mina harkers journal 
- 30 september i am so glad that i hardly know how to contain myself 
+mina harkers journal
+30 september i am so glad that i hardly know how to contain myself 
 it is i suppose the reaction from the haunting fear which i have had 
 that this terrible affair and the reopening of his old wound might act
 detrimentally on jonathan i saw him leave for whitby with as brave a
@@ -7882,7 +7882,7 @@ human not even beast to read dr sewards account of poor lucys
 death and what followed is enough to dry up the springs of pity in
 ones heart 
  
- later lord godalming and mr morris arrived earlier than we
+later lord godalming and mr morris arrived earlier than we
 expected dr seward was out on business and had taken jonathan with
 him so i had to see them it was to me a painful meeting for it
 brought back all poor dear lucys hopes of only a few months ago of
@@ -7917,7 +7917,7 @@ lord godalming found himself alone with me he sat down on the sofa and
 gave way utterly and openly i sat down beside him and took his hand i
 hope he didnt think it forward of me and that if he ever thinks of it
 afterwards he never will have such a thought there i wrong him i
- know he never will he is too true a gentleman i said to him for i
+know he never will he is too true a gentleman i said to him for i
 could see that his heart was breaking 
  i loved dear lucy and i know what she was to you and what you were to
 her she and i were like sisters and now she is gone will you not let
@@ -7977,10 +7977,10 @@ momentary choking in his throat he said quite calmly
  little girl you will never regret that true hearted kindness so long
 as ever you live then he went into the study to his friend 
  little girl the very words he had used to lucy and oh but he
-proved himself a friend 
+proved himself a friend
 chapter xviii
 dr sewards diary
- 30 september i got home at five oclock and found that godalming
+30 september i got home at five oclock and found that godalming
 and morris had not only arrived but had already studied the transcript
 of the various diaries and letters which harker and his wonderful wife
 had made and arranged harker had not yet returned from his visit to the
@@ -8133,8 +8133,8 @@ and before our meeting which is fixed for nine oclock the rest of us
 have already read everything so when we meet in the study we shall all
 be informed as to facts and can arrange our plan of battle with this
 terrible and mysterious enemy 
- mina harkers journal 
- 30 september when we met in dr sewards study two hours after
+mina harkers journal 
+30 september when we met in dr sewards study two hours after
 dinner which had been at six oclock we unconsciously formed a sort of
 board or committee professor van helsing took the head of the table to
 which dr seward motioned him as he came into the room he made me sit
@@ -8154,7 +8154,7 @@ exist even had we not the proof of our own unhappy experience the
 teachings and the records of the past give proof enough for sane
 peoples i admit that at the first i was sceptic were it not that
 through long years i have train myself to keep an open mind i could not
-have believe until such time as that fact thunder on my ear see see 
+have believe until such time as that fact thunder on my ear see see
 i prove i prove alas had i known at the first what now i know nay 
 had i even guess at him one so precious life had been spared to many of
 us who did love her but that is gone and we must so work that other
@@ -8243,7 +8243,7 @@ living even more we have seen amongst us that he can even grow
 younger that his vital faculties grow strenuous and seem as though
 they refresh themselves when his special pabulum is plenty but he
 cannot flourish without this diet he eat not as others even friend
-jonathan who lived with him for weeks did never see him to eat never 
+jonathan who lived with him for weeks did never see him to eat never
 he throws no shadow he make in the mirror no reflect as again
 jonathan observe he has the strength of many of his hand witness again
 jonathan when he shut the door against the wolfs and when he help him
@@ -8367,8 +8367,8 @@ with means to get into the house
 manlike they had told me to go to bed and sleep as if a woman can
 sleep when those she loves are in danger i shall lie down and pretend
 to sleep lest jonathan have added anxiety about me when he returns 
- dr sewards diary 
- 1 october 4 a m just as we were about to leave the house an
+dr sewards diary 
+1 october 4 a m just as we were about to leave the house an
 urgent message was brought to me from renfield to know if i would see
 him at once as he had something of the utmost importance to say to me 
 i told the messenger to say that i would attend to his wishes in the
@@ -8379,7 +8379,7 @@ violent fits i knew the man would not have said this without some
 cause so i said all right ill go now and i asked the others to
 wait a few minutes for me as i had to go and see my patient 
  take me with you friend john said the professor his case in your
-diary interest me much and it had bearing too now and again on our 
+diary interest me much and it had bearing too now and again on our
 case i should much like to see him and especial when his mind is
 disturbed 
  may i come also asked lord godalming 
@@ -8531,7 +8531,7 @@ quiet well bred voice
 on that i did what i could to convince you to night 
 chapter xix
 jonathan harkers journal
- 1 october 5 a m i went with the party to the search with an easy
+1 october 5 a m i went with the party to the search with an easy
 mind for i think i never saw mina so absolutely strong and well i am
 so glad that she consented to hold back and let us men do the work 
 somehow it was a dread to me that she was in this fearful business at
@@ -8765,7 +8765,7 @@ confidence as ours but i must be resolute and to morrow i shall keep
 dark over to nights doings and shall refuse to speak of anything that
 has happened i rest on the sofa so as not to disturb her 
  
- 1 october later i suppose it was natural that we should have all
+1 october later i suppose it was natural that we should have all
 overslept ourselves for the day was a busy one and the night had no
 rest at all even mina must have felt its exhaustion for though i slept
 till the sun was high i was awake before her and had to call two or
@@ -8778,8 +8778,8 @@ that several were taken in any of these removals we may be able to trace
 them all such will of course immensely simplify our labour and the
 sooner the matter is attended to the better i shall look up thomas
 snelling to day 
- dr sewards diary 
- 1 october it was towards noon when i was awakened by the professor
+dr sewards diary 
+1 october it was towards noon when i was awakened by the professor
 walking into my room he was more jolly and cheerful than usual and it
 is quite evident that last nights work has helped to take some of the
 brooding weight off his mind after going over the adventure of the
@@ -8837,8 +8837,8 @@ infallibly have wrecked her
 so van helsing has gone to confer with mrs harker and harker quincey
 and art are all out following up the clues as to the earth boxes i
 shall finish my round of work and we shall meet to night 
- mina harkers journal 
- 1 october it is strange to me to be kept in the dark as i am to day 
+mina harkers journal 
+1 october it is strange to me to be kept in the dark as i am to day 
 after jonathans full confidence for so many years to see him
 manifestly avoid certain matters and those the most vital of all this
 morning i slept late after the fatigues of yesterday and though
@@ -8946,7 +8946,7 @@ not i shall to morrow night get them to give me a dose of chloral that
 cannot hurt me for once and it will give me a good nights sleep last
 night tired me more than if i had not slept at all 
  
- 2 october 10 p m last night i slept but did not dream i must have
+2 october 10 p m last night i slept but did not dream i must have
 slept soundly for i was not waked by jonathan coming to bed but the
 sleep has not refreshed me for to day i feel terribly weak and
 spiritless i spent all yesterday trying to read or lying down dozing 
@@ -8971,7 +8971,7 @@ comes that i may have been foolish in thus depriving myself of the
 power of waking i might want it here comes sleep good night 
 chapter xx
 jonathan harkers journal
- 1 october evening i found thomas snelling in his house at bethnal
+1 october evening i found thomas snelling in his house at bethnal
 green but unhappily he was not in a condition to remember anything the
 very prospect of beer which my expected coming had opened to him had
 proved too much and he had begun too early on his expected debauch i
@@ -9033,7 +9033,7 @@ circumstances indeed it may not be a hard task after all for she
 herself has become reticent on the subject and has not spoken of the
 count or his doings ever since we told her of our decision 
  
- 2 october evening a long and trying and exciting day by the first
+2 october evening a long and trying and exciting day by the first
 post i got my directed envelope with a dirty scrap of paper enclosed on
 which was written with a carpenters pencil in a sprawling hand 
  sam bloxam korkrans 4 poters cort bartel street walworth arsk for
@@ -9089,7 +9089,7 @@ purfleet he elped me to lift the boxes and put them in the dray curse
 me but he was the strongest chap i ever struck an him a old feller 
 with a white moustache one that thin you would think he couldnt throw
 a shadder 
-how this phrase thrilled through me 
+how this phrase thrilled through me
  why e took up is end o the boxes like they was pounds of tea and
 me a puffin an a blowin afore i could up end mine anyhow an im no
 chicken neither 
@@ -9238,9 +9238,9 @@ just a line mina sleeps soundly and her breathing is regular her
 forehead is puckered up into little wrinkles as though she thinks even
 in her sleep she is still too pale but does not look so haggard as she
 did this morning to morrow will i hope mend all this she will be
-herself at home in exeter oh but i am sleepy 
- dr sewards diary 
- 1 october i am puzzled afresh about renfield his moods change so
+herself at home in exeter oh but i am sleepy
+dr sewards diary 
+1 october i am puzzled afresh about renfield his moods change so
 rapidly that i find it difficult to keep touch of them and as they
 always mean something more than his own well being they form a more
 than interesting study this morning when i went to see him after his
@@ -9394,12 +9394,12 @@ despises the meaner forms of life altogether though he dreads being
 haunted by their souls 
 logically all these things point one way he has assurance of some kind
 that he will acquire some higher life he dreads the consequence the
-burden of a soul then it is a human life he looks to 
+burden of a soul then it is a human life he looks to
 and the assurance 
 merciful god the count has been to him and there is some new scheme of
-terror afoot 
+terror afoot
  
- later i went after my round to van helsing and told him my
+later i went after my round to van helsing and told him my
 suspicion he grew very grave and after thinking the matter over for a
 while asked me to take him to renfield i did so as we came to the door
 we heard the lunatic within singing gaily as he used to do in the time
@@ -9411,7 +9411,7 @@ went on with his singing just as though we had not been present he had
 got a scrap of paper and was folding it into a note book we had to come
 away as ignorant as we went in 
 his is a curious case indeed we must watch him to night 
- letter mitchell sons and candy to lord godalming 
+letter mitchell sons and candy to lord godalming 
  1 october 
  my lord 
  we are at all times only too happy to meet your wishes we beg with
@@ -9426,8 +9426,8 @@ of him
  we are my lord 
  your lordships humble servants 
  mitchell sons candy 
- dr sewards diary 
- 2 october i placed a man in the corridor last night and told him to
+dr sewards diary 
+2 october i placed a man in the corridor last night and told him to
 make an accurate note of any sound he might hear from renfields room 
 and gave him instructions that if there should be anything strange he
 was to call me after dinner when we had all gathered round the fire
@@ -9457,7 +9457,7 @@ useful to us later
 i sometimes think we must be all mad and that we shall wake to sanity in
 strait waistcoats 
  
- later we have met again we seem at last to be on the track and our
+later we have met again we seem at last to be on the track and our
 work of to morrow may be the beginning of the end i wonder if
 renfields quiet has anything to do with this his moods have so
 followed the doings of the count that the coming destruction of the
@@ -9473,7 +9473,7 @@ to him found him lying on his face on the floor all covered with blood
 i must go at once 
 chapter xxi
 dr sewards diary
- 3 october let me put down with exactness all that happened as well
+3 october let me put down with exactness all that happened as well
 as i can remember it since last i made an entry not a detail that i
 can recall must be forgotten in all calmness i must proceed 
 when i came to renfields room i found him lying on the floor on his
@@ -9566,7 +9566,7 @@ sinking fast he might die at any moment i looked up at the professor
 and caught his eyes fixed on mine his face was sternly set as he
 spoke 
  there is no time to lose his words may be worth many lives i have
-been thinking so as i stood here it may be there is a soul at stake 
+been thinking so as i stood here it may be there is a soul at stake
 we shall operate just above the ear 
 without another word he made the operation for a few moments the
 breathing continued to be stertorous then there came a breath so
@@ -9963,7 +9963,7 @@ of this i am sure the sun rises to day on no more miserable house in
 all the great round of its daily course 
 chapter xxii
 jonathan harkers journal
- 3 october as i must do something or go mad i write this diary it
+3 october as i must do something or go mad i write this diary it
 is now six oclock and we are to meet in the study in half an hour and
 take something to eat for dr van helsing and dr seward are agreed
 that if we do not eat we cannot work our best our best will be god
@@ -9974,7 +9974,7 @@ not have landed mina or me anywhere worse than we are to day however
 we must trust and hope poor mina told me just now with the tears
 running down her dear cheeks that it is in trouble and trial that our
 faith is tested that we must keep on trusting and that god will aid us
-up to the end the end oh my god what end to work to work 
+up to the end the end oh my god what end to work to work
 when dr van helsing and dr seward had come back from seeing poor
 renfield we went gravely into what was to be done first dr seward
 told us that when he and dr van helsing had gone down to the room below
@@ -10004,7 +10004,7 @@ kept from her she herself agreed as to its wisdom and it was pitiful
 to see her so brave and yet so sorrowful and in such a depth of
 despair there must be no concealment she said alas we have had
 too much already and besides there is nothing in all the world that can
-give me more pain than i have already endured than i suffer now 
+give me more pain than i have already endured than i suffer now
 whatever may happen it must be of new hope or of new courage to me 
 van helsing was looking at her fixedly as she spoke and said suddenly
 but quietly 
@@ -10128,7 +10128,7 @@ that house making an agreement that he pull it down and take all away
 within a certain time and your police and other authority help him all
 they can and when that owner come back from his holiday in switzerland
 he find only an empty hole where his house had been this was all done
- en r gle and in our work we shall be en r gle too we shall not go
+en r gle and in our work we shall be en r gle too we shall not go
 so early that the policemen who have then little to think of shall deem
 it strange but we shall go after ten oclock when there are many
 about and such things would be done were we indeed owners of the
@@ -10303,7 +10303,7 @@ and just caught the train which was steaming in as we reached the
 platform 
 i have written this in the train 
  
- piccadilly 12 30 oclock just before we reached fenchurch street
+piccadilly 12 30 oclock just before we reached fenchurch street
 lord godalming said to me 
  quincey and i will find a locksmith you had better not come with us in
 case there should be any difficulty for under the circumstances it
@@ -10360,7 +10360,7 @@ place pretty freely we moved to explore the house all keeping together
 in case of attack for we knew we had a strong and wily enemy to deal
 with and as yet we did not know whether the count might not be in the
 house in the dining room which lay at the back of the hall we found
-eight boxes of earth eight boxes only out of the nine which we sought 
+eight boxes of earth eight boxes only out of the nine which we sought
 our work was not over and would never be until we should have found the
 missing box first we opened the shutters of the window which looked out
 across a narrow stone flagged yard at the blank face of a stable 
@@ -10390,7 +10390,7 @@ are with what patience we can waiting their return or the coming of
 the count 
 chapter xxiii
 dr sewards diary
- 3 october the time seemed terrible long whilst we were waiting for
+3 october the time seemed terrible long whilst we were waiting for
 the coming of godalming and quincey morris the professor tried to keep
 our minds active by using them all the time i could see his beneficent
 purpose by the side glances which he threw from time to time at harker 
@@ -10424,7 +10424,7 @@ mans stature he is experimenting and doing it well and if it had not
 been that we have crossed his path he would be yet he may be yet if we
 fail the father or furtherer of a new order of beings whose road must
 lead through death not life 
-harker groaned and said and this is all arrayed against my darling 
+harker groaned and said and this is all arrayed against my darling
 but how is he experimenting the knowledge may help us to defeat him 
  he has all along since his coming been trying his power slowly but
 surely that big child brain of his is working well for us it is as
@@ -10688,8 +10688,8 @@ poor stricken lady the first watch falls to quincey so the rest of us
 shall be off to bed as soon as we can godalming has already turned in 
 for his is the second watch now that my work is done i too shall go
 to bed 
- jonathan harkers journal 
- 3 4 october close to midnight i thought yesterday would never end 
+jonathan harkers journal 
+3 4 october close to midnight i thought yesterday would never end 
 there was over me a yearning for sleep in some sort of blind belief
 that to wake would be to find things changed and that any change must
 now be for the better before we parted we discussed what our next step
@@ -10713,7 +10713,7 @@ myself though i am weary weary to death however i must try to sleep
 for there is to morrow to think of and there is no rest for me
 until 
  
- later i must have fallen asleep for i was awaked by mina who was
+later i must have fallen asleep for i was awaked by mina who was
 sitting up in bed with a startled look on her face i could see easily 
 for we did not leave the room in darkness she had placed a warning hand
 over my mouth and now she whispered in my ear 
@@ -10729,7 +10729,7 @@ face as she put her arms round me and said softly
  oh thank god for good brave men with a sigh she sank back again to
 sleep i write this now as i am not sleepy though i must try again 
  
- 4 october morning once again during the night i was wakened by
+4 october morning once again during the night i was wakened by
 mina this time we had all had a good sleep for the grey of the coming
 dawn was making the windows into sharp oblongs and the gas flame was
 like a speck rather than a disc of light she said to me hurriedly 
@@ -10878,8 +10878,8 @@ together take heart afresh dear husband of madam mina this battle is
 but begun and in the end we shall win so sure as that god sits on high
 to watch over his children therefore be of much comfort till we return 
 van helsing 
- jonathan harkers journal 
- 4 october when i read to mina van helsings message in the
+jonathan harkers journal 
+4 october when i read to mina van helsings message in the
 phonograph the poor girl brightened up considerably already the
 certainty that the count is out of the country has given her comfort 
 and comfort is strength to her for my own part now that his horrible
@@ -10900,8 +10900,8 @@ yet of the future it is better to wait till we see the professor and
 the others after their investigations 
 the day is running by more quickly than i ever thought a day could run
 for me again it is now three oclock 
- mina harkers journal 
- 5 october 5 p m our meeting for report present professor van
+mina harkers journal 
+5 october 5 p m our meeting for report present professor van
 helsing lord godalming dr seward mr quincey morris jonathan
 harker mina harker 
 dr van helsing described what steps were taken during the day to
@@ -11088,8 +11088,8 @@ presence were removed from me perhaps
 my surmise was not finished could not be for i caught sight in the
 mirror of the red mark upon my forehead and i knew that i was still
 unclean 
- dr sewards diary 
- 5 october we all rose early and i think that sleep did much for
+dr sewards diary 
+5 october we all rose early and i think that sleep did much for
 each and all of us when we met at early breakfast there was more
 general cheerfulness than any of us had ever expected to experience
 again 
@@ -11107,7 +11107,7 @@ recalls it to her mind that she thinks of her terrible scar we are to
 meet here in my study in half an hour and decide on our course of
 action i see only one immediate difficulty i know it by instinct
 rather than reason we shall all have to speak frankly and yet i fear
-that in some mysterious way poor mrs harkers tongue is tied i know 
+that in some mysterious way poor mrs harkers tongue is tied i know
 that she forms conclusions of her own and from all that has been i can
 guess how brilliant and how true they must be but she will not or
 cannot give them utterance i have mentioned this to van helsing and
@@ -11120,11 +11120,11 @@ a mystery we should not wonder at anything one thing i know that if my
 instinct be true regarding poor mrs harkers silences then there is a
 terrible difficulty an unknown danger in the work before us the same
 power that compels her silence may compel her speech i dare not think
-further for so i should in my thoughts dishonour a noble woman 
+further for so i should in my thoughts dishonour a noble woman
 van helsing is coming to my study a little before the others i shall
 try to open the subject with him 
  
- later when the professor came in we talked over the state of
+later when the professor came in we talked over the state of
 things i could see that he had something on his mind which he wanted to
 say but felt some hesitancy about broaching the subject after beating
 about the bush a little he said suddenly 
@@ -11163,7 +11163,7 @@ it is now close to the time of our general gathering van helsing has
 gone away to prepare for the meeting and his painful part of it i
 really believe his purpose is to be able to pray alone 
  
- later at the very outset of our meeting a great personal relief was
+later at the very outset of our meeting a great personal relief was
 experienced by both van helsing and myself mrs harker had sent a
 message by her husband to say that she would not join us at present as
 she thought it better that we should be free to discuss our movements
@@ -11210,8 +11210,8 @@ mina i thought that now was the time for van helsing to warn him not
 to disclose our plans to her but he took no notice i looked at him
 significantly and coughed for answer he put his finger on his lips and
 turned away 
- jonathan harkers journal 
- 5 october afternoon for some time after our meeting this morning i
+jonathan harkers journal 
+5 october afternoon for some time after our meeting this morning i
 could not think the new phases of things leave my mind in a state of
 wonder which allows no room for active thought minas determination not
 to take any part in the discussion set me thinking and as i could not
@@ -11222,7 +11222,7 @@ more concealment of anything amongst us mina is sleeping now calmly
 and sweetly like a little child her lips are curved and her face beams
 with happiness thank god there are such moments still for her 
  
- later how strange it all is i sat watching minas happy sleep and
+later how strange it all is i sat watching minas happy sleep and
 came as near to being happy myself as i suppose i shall ever be as the
 evening drew on and the earth took its shadows from the sun sinking
 lower the silence of the room grew more and more solemn to me all at
@@ -11249,7 +11249,7 @@ solemnly
  i promise and as i said it i felt that from that instant a door had
 been shut between us 
  
- later midnight mina has been bright and cheerful all the evening 
+later midnight mina has been bright and cheerful all the evening 
 so much so that all the rest seemed to take courage as if infected
 somewhat with her gaiety as a result even i myself felt as if the pall
 of gloom which weighs us down were somewhat lifted we all retired
@@ -11259,7 +11259,7 @@ trouble thank god for it for then at least she can forget her care
 perhaps her example may affect me as her gaiety did to night i shall
 try it oh for a dreamless sleep 
  
- 6 october morning another surprise mina woke me early about the
+6 october morning another surprise mina woke me early about the
 same time as yesterday and asked me to bring dr van helsing i thought
 that it was another occasion for hypnotism and without question went
 for the professor he had evidently expected some such call for i found
@@ -11334,7 +11334,7 @@ our journey
 there was nothing further to be said and we parted i shall now settle
 up all my affairs of earth and be ready for whatever may come 
  
- later it is all done my will is made and all complete mina if she
+later it is all done my will is made and all complete mina if she
 survive is my sole heir if it should not be so then the others who
 have been so good to us shall have remainder 
 it is now drawing towards the sunset minas uneasiness calls my
@@ -11348,7 +11348,7 @@ shall be ready
 she is calling to me 
 chapter xxv
 dr sewards diary
- 11 october evening jonathan harker has asked me to note this as he
+11 october evening jonathan harker has asked me to note this as he
 says he is hardly equal to the task and he wants an exact record kept 
 i think that none of us were surprised when we were asked to see mrs 
 harker a little before the time of sunset we have of late come to
@@ -11483,8 +11483,8 @@ hereafter seem even to us who felt its potent influence at the time it
 comforted us much and the silence which showed mrs harkers coming
 relapse from her freedom of soul did not seem so full of despair to any
 of us as we had dreaded 
- jonathan harkers journal 
- 15 october varna we left charing cross on the morning of the 12th 
+jonathan harkers journal 
+15 october varna we left charing cross on the morning of the 12th 
 got to paris the same night and took the places secured for us in the
 orient express we travelled night and day arriving here at about five
 oclock lord godalming went to the consulate to see if any telegram had
@@ -11528,14 +11528,14 @@ seamen thank god this is the country where bribery can do anything
 and we are well supplied with money we have only to make sure that the
 ship cannot come into port between sunset and sunrise without our being
 warned and we shall be safe judge moneybag will settle this case i
-think 
+think
  
- 16 october minas report still the same lapping waves and rushing
+16 october minas report still the same lapping waves and rushing
 water darkness and favouring winds we are evidently in good time and
 when we hear of the czarina catherine we shall be ready as she must
 pass the dardanelles we are sure to have some report 
  
- 17 october everything is pretty well fixed now i think to welcome
+17 october everything is pretty well fixed now i think to welcome
 the count on his return from his tour godalming told the shippers that
 he fancied that the box sent aboard might contain something stolen from
 a friend of his and got a half consent that he might open it at his own
@@ -11556,19 +11556,19 @@ some day this very script may be evidence to come between some of us and
 a rope for myself i should take the chance only too thankfully if it
 were to come we mean to leave no stone unturned to carry out our
 intent we have arranged with certain officials that the instant the
- czarina catherine is seen we are to be informed by a special
+czarina catherine is seen we are to be informed by a special
 messenger 
  
- 24 october a whole week of waiting daily telegrams to godalming 
+24 october a whole week of waiting daily telegrams to godalming 
 but only the same story not yet reported minas morning and evening
 hypnotic answer is unvaried lapping waves rushing water and creaking
 masts 
- telegram october 24th 
- rufus smith lloyds london to lord godalming care of h b m 
+telegram october 24th 
+rufus smith lloyds london to lord godalming care of h b m 
 vice consul varna 
  czarina catherine reported this morning from dardanelles 
- dr sewards diary 
- 25 october how i miss my phonograph to write diary with a pen is
+dr sewards diary 
+25 october how i miss my phonograph to write diary with a pen is
 irksome to me but van helsing says i must we were all wild with
 excitement yesterday when godalming got his telegram from lloyds i
 know now what men feel in battle when the call to action is heard mrs 
@@ -11597,14 +11597,14 @@ arrive some time in the morning but as she cannot possibly get in
 before then we are all about to retire early we shall get up at one
 oclock so as to be ready 
  
- 25 october noon no news yet of the ships arrival mrs harkers
+25 october noon no news yet of the ships arrival mrs harkers
 hypnotic report this morning was the same as usual so it is possible
 that we may get news at any moment we men are all in a fever of
 excitement except harker who is calm his hands are cold as ice and
 an hour ago i found him whetting the edge of the great ghoorka knife
 which he now always carries with him it will be a bad lookout for the
 count if the edge of that kukri ever touches his throat driven by
-that stern ice cold hand 
+that stern ice cold hand
 van helsing and i were a little alarmed about mrs harker to day about
 noon she got into a sort of lethargy which we did not like although we
 kept silence to the others we were neither of us happy about it she
@@ -11616,13 +11616,13 @@ well and peaceful that we agreed that the sleep was better for her than
 anything else poor girl she has so much to forget that it is no wonder
 that sleep if it brings oblivion to her does her good 
  
- later our opinion was justified for when after a refreshing sleep
+later our opinion was justified for when after a refreshing sleep
 of some hours she woke up she seemed brighter and better than she had
 been for days at sunset she made the usual hypnotic report wherever he
 may be in the black sea the count is hurrying to his destination to
-his doom i trust 
+his doom i trust
  
- 26 october another day and no tidings of the czarina catherine 
+26 october another day and no tidings of the czarina catherine 
 she ought to be here by now that she is still journeying somewhere is
 apparent for mrs harkers hypnotic report at sunrise was still the
 same it is possible that the vessel may be lying by at times for fog 
@@ -11630,7 +11630,7 @@ some of the steamers which came in last evening reported patches of fog
 both to north and south of the port we must continue our watching as
 the ship may now be signalled any moment 
  
- 27 october noon most strange no news yet of the ship we wait for 
+27 october noon most strange no news yet of the ship we wait for 
 mrs harker reported last night and this morning as usual lapping
 waves and rushing water though she added that the waves were very
 faint the telegrams from london have been the same no further
@@ -11645,8 +11645,8 @@ at sunset to make her speak more fully when in her hypnotic state
  care h b m vice consul varna 
  czarina catherine reported entering galatz at one oclock
  to day 
- dr sewards diary 
- 28 october when the telegram came announcing the arrival in galatz i
+dr sewards diary 
+28 october when the telegram came announcing the arrival in galatz i
 do not think it was such a shock to any of us as might have been
 expected true we did not know whence or how or when the bolt would
 come but i think we all expected that something strange would happen 
@@ -11729,7 +11729,7 @@ so she come not to him ah there i have hope that our man brains that
 have been of man so long and that have not lost the grace of god will
 come higher than his child brain that lie in his tomb for centuries 
 that grow not yet to our stature and that do only work selfish and
-therefore small here comes madam mina not a word to her of her trance 
+therefore small here comes madam mina not a word to her of her trance
 she know it not and it would overwhelm her and make despair just when
 we want all her hope all her courage when most we want all her great
 brain which is trained like mans brain but is of sweet woman and have
@@ -11855,7 +11855,7 @@ and so i have written it whilst we wait their return and mrs harker
 has written with her typewriter all since she brought the ms to us 
 chapter xxvi
 dr sewards diary
- 29 october this is written in the train from varna to galatz last
+29 october this is written in the train from varna to galatz last
 night we all assembled a little before the time of sunset each of us
 had done his work as well as he could so far as thought and endeavour 
 and opportunity go we are prepared for the whole of our journey and
@@ -11913,7 +11913,7 @@ possibly get in till well after sun up thus we shall have two more
 hypnotic messages from mrs harker either or both may possibly throw
 more light on what is happening 
  
- later sunset has come and gone fortunately it came at a time when
+later sunset has come and gone fortunately it came at a time when
 there was no distraction for had it occurred whilst we were at a
 station we might not have secured the necessary calm and isolation 
 mrs harker yielded to the hypnotic influence even less readily than
@@ -11936,7 +11936,7 @@ all alert she could not remember anything but asked what she had said
 when she was told she pondered over it deeply for a long time and in
 silence 
  
- 30 october 7 a m we are near galatz now and i may not have time
+30 october 7 a m we are near galatz now and i may not have time
 to write later sunrise this morning was anxiously looked for by us all 
 knowing of the increasing difficulty of procuring the hypnotic trance 
 van helsing began his passes earlier than usual they produced no
@@ -11955,7 +11955,7 @@ unconcern
 anything then seeing the look of amazement on our faces she said 
 turning from one to the other with a troubled look 
  what have i said what have i done i know nothing only that i was
-lying here half asleep and heard you say go on speak i command you 
+lying here half asleep and heard you say go on speak i command you
 it seemed so funny to hear you order me about as if i were a bad
 child 
  oh madam mina he said sadly it is proof if proof be needed of
@@ -11964,8 +11964,8 @@ earnest than ever can seem so strange because it is to order her whom i
 am proud to obey 
 the whistles are sounding we are nearing galatz we are on fire with
 anxiety and eagerness 
- mina harkers journal 
- 30 october mr morris took me to the hotel where our rooms had been
+mina harkers journal 
+30 october mr morris took me to the hotel where our rooms had been
 ordered by telegraph he being the one who could best be spared since
 he does not speak any foreign language the forces were distributed
 much as they had been at varna except that lord godalming went to the
@@ -11974,11 +11974,11 @@ sort to the official we being in extreme hurry jonathan and the two
 doctors went to the shipping agent to learn particulars of the arrival
 of the czarina catherine 
  
- later lord godalming has returned the consul is away and the
+later lord godalming has returned the consul is away and the
 vice consul sick so the routine work has been attended to by a clerk 
 he was very obliging and offered to do anything in his power 
- jonathan harkers journal 
- 30 october at nine oclock dr van helsing dr seward and i called
+jonathan harkers journal 
+30 october at nine oclock dr van helsing dr seward and i called
 on messrs mackenzie steinkoff the agents of the london firm of
 hapgood they had received a wire from london in answer to lord
 godalmings telegraphed request asking us to show them any civility in
@@ -12076,8 +12076,8 @@ when we met together the first thing was to consult as to taking mina
 again into our confidence things are getting desperate and it is at
 least a chance though a hazardous one as a preliminary step i was
 released from my promise to her 
- mina harkers journal 
- 30 october evening they were so tired and worn out and dispirited
+mina harkers journal 
+30 october evening they were so tired and worn out and dispirited
 that there was nothing to be done till they had some rest so i asked
 them all to lie down for half an hour whilst i should enter everything
 up to the moment i feel so grateful to the man who invented the
@@ -12088,7 +12088,7 @@ it is all done poor dear dear jonathan what he must have suffered
 what must he be suffering now he lies on the sofa hardly seeming to
 breathe and his whole body appears in collapse his brows are knit his
 face is drawn with pain poor fellow maybe he is thinking and i can
-see his face all wrinkled up with the concentration of his thoughts oh 
+see his face all wrinkled up with the concentration of his thoughts oh
 if i could only help at all i shall do what i can 
 i have asked dr van helsing and he has got me all the papers that i
 have not yet seen whilst they are resting i shall go over all
@@ -12102,9 +12102,9 @@ shall get the maps and look over them
 i am more than ever sure that i am right my new conclusion is ready so
 i shall get our party together and read it they can judge it it is
 well to be accurate and every minute is precious 
- mina harkers memorandum 
+mina harkers memorandum 
  entered in her journal 
- ground of inquiry count draculas problem is to get back to his own
+ground of inquiry count draculas problem is to get back to his own
 place 
  a he must be brought back by some one this is evident for had he
 power to move himself as he wished he could go either as man or wolf 
@@ -12120,7 +12120,7 @@ a surmise a doubt as to what might be in the box would destroy him
  y there are or there may be customs and octroi officers to pass 
  z his pursuers might follow this is his highest fear and in order
 to prevent his being betrayed he has repelled so far as he can even
-his victim me 
+his victim me
 2 by rail there is no one in charge of the box it would have to
 take its chance of being delayed and delay would be fatal with enemies
 on the track true he might escape at night but what would he be if
@@ -12137,10 +12137,10 @@ we know from the record that he was on the water so what we have to do
 is to ascertain what water 
 the first thing is to realise exactly what he has done as yet we may 
 then get a light on what his later task is to be 
- firstly we must differentiate between what he did in london as part
+firstly we must differentiate between what he did in london as part
 of his general plan of action when he was pressed for moments and had
 to arrange as best he could 
- secondly we must see as well as we can surmise it from the facts we
+secondly we must see as well as we can surmise it from the facts we
 know of what he has done here 
 as to the first he evidently intended to arrive at galatz and sent
 invoice to varna to deceive us lest we should ascertain his means of
@@ -12150,7 +12150,7 @@ hildesheim to clear and take away the box before sunrise there is
 also the instruction to petrof skinsky these we must only guess at but
 there must have been some letter or message since skinsky came to
 hildesheim 
-that so far his plans were successful we know the czarina catherine 
+that so far his plans were successful we know the czarina catherine
 made a phenomenally quick journey so much so that captain donelsons
 suspicions were aroused but his superstition united with his canniness
 played the counts game for him and he ran with his favouring wind
@@ -12190,7 +12190,7 @@ possibly investigate further now of these two the pruth is the more
 easily navigated but the sereth is at fundu joined by the bistritza
 which runs up round the borgo pass the loop it makes is manifestly as
 close to draculas castle as can be got by water 
- mina harkers journal continued 
+mina harkers journal continued 
 when i had done reading jonathan took me in his arms and kissed me the
 others kept shaking me by both hands and dr van helsing said 
  our dear madam mina is once more our teacher her eyes have been where
@@ -12279,9 +12279,9 @@ it is i who would have to go to keep them company
  do as you will said jonathan with a sob that shook him all over we
 are in the hands of god 
  
- later oh it did me good to see the way that these brave men worked 
+later oh it did me good to see the way that these brave men worked 
 how can women help loving men when they are so earnest and so true and
-so brave and too it made me think of the wonderful power of money 
+so brave and too it made me think of the wonderful power of money
 what can it not do when it is properly applied and what might it do
 when basely used i felt so thankful that lord godalming is rich and
 that both he and mr morris who also has plenty of money are willing
@@ -12305,12 +12305,12 @@ that i am fully armed as there may be wolves the weather is getting
 colder every hour and there are snow flurries which come and go as
 warnings 
  
- later it took all my courage to say good bye to my darling we may
+later it took all my courage to say good bye to my darling we may
 never meet again courage mina the professor is looking at you keenly 
 his look is a warning there must be no tears now unless it may be that
 god will let them fall in gladness 
- jonathan harkers journal 
- october 30 night i am writing this in the light from the furnace
+jonathan harkers journal 
+october 30 night i am writing this in the light from the furnace
 door of the steam launch lord godalming is firing up he is an
 experienced hand at the work as he has had for years a launch of his
 own on the thames and another on the norfolk broads regarding our
@@ -12343,7 +12343,7 @@ home we seem to be drifting into unknown places and unknown ways into
 a whole world of dark and dreadful things godalming is shutting the
 furnace door 
  
- 31 october still hurrying along the day has come and godalming is
+31 october still hurrying along the day has come and godalming is
 sleeping i am on watch the morning is bitterly cold the furnace heat
 is grateful though we have heavy fur coats as yet we have passed only
 a few open boats but none of them had on board any box or package of
@@ -12351,7 +12351,7 @@ anything like the size of the one we seek the men were scared every
 time we turned our electric lamp on them and fell on their knees and
 prayed 
  
- 1 november evening no news all day we have found nothing of the
+1 november evening no news all day we have found nothing of the
 kind we seek we have now passed into the bistritza and if we are wrong
 in our surmise our chance is gone we have over hauled every boat big
 and little early this morning one crew took us for a government boat 
@@ -12370,7 +12370,7 @@ upon me and nature must have rest some time godalming insists that he
 shall keep the first watch god bless him for all his goodness to poor
 dear mina and me 
  
- 2 november morning it is broad daylight that good fellow would not
+2 november morning it is broad daylight that good fellow would not
 wake me he says it would have been a sin to for i slept peacefully and
 was forgetting my trouble it seems brutally selfish to me to have slept
 so long and let him watch all night but he was quite right i am a new
@@ -12390,19 +12390,19 @@ doubtless in winter and when the snow melts the horsemen may not have
 met much obstruction i hope that before we get to strasba we may see
 them for if by that time we have not overtaken the count it may be
 necessary to take counsel together what to do next 
- dr sewards diary 
- 2 november three days on the road no news and no time to write it
+dr sewards diary 
+2 november three days on the road no news and no time to write it
 if there had been for every moment is precious we have had only the
 rest needful for the horses but we are both bearing it wonderfully 
 those adventurous days of ours are turning up useful we must push on 
 we shall never feel happy till we get the launch in sight again 
  
- 3 november we heard at fundu that the launch had gone up the
+3 november we heard at fundu that the launch had gone up the
 bistritza i wish it wasnt so cold there are signs of snow coming and
 if it falls heavy it will stop us in such case we must get a sledge and
 go on russian fashion 
  
- 4 november to day we heard of the launch having been detained by an
+4 november to day we heard of the launch having been detained by an
 accident when trying to force a way up the rapids the slovak boats get
 up all right by aid of a rope and steering with knowledge some went up
 only a few hours before godalming is an amateur fitter himself and
@@ -12412,8 +12412,8 @@ afresh i fear that the boat is not any better for the accident the
 peasantry tell us that after she got upon smooth water again she kept
 stopping every now and again so long as she was in sight we must push
 on harder than ever our help may be wanted soon 
- mina harkers journal 
- 31 october arrived at veresti at noon the professor tells me that
+mina harkers journal 
+31 october arrived at veresti at noon the professor tells me that
 this morning at dawn he could hardly hypnotise me at all and that all i
 could say was dark and quiet he is off now buying a carriage and
 horses he says that he will later on try to buy additional horses so
@@ -12426,7 +12426,7 @@ their life and to fill our minds and memories with all the colour and
 picturesqueness of the whole wild beautiful country and the quaint
 people but alas 
  
- later dr van helsing has returned he has got the carriage and
+later dr van helsing has returned he has got the carriage and
 horses we are to have some dinner and to start in an hour the
 landlady is putting us up a huge basket of provisions it seems enough
 for a company of soldiers the professor encourages her and whispers to
@@ -12443,7 +12443,7 @@ loved him and honoured him more than i can say and that my latest and
 truest thought will be always for him 
 chapter xxvii
 mina harkers journal
- 1 november all day long we have travelled and at a good speed the
+1 november all day long we have travelled and at a good speed the
 horses seem to know that they are being kindly treated for they go
 willingly their full stage at best speed we have now had so many
 changes and find the same thing so constantly that we are encouraged to
@@ -12474,7 +12474,7 @@ him rest whilst i drive i shall tell him that we have days before us
 and we must not break down when most of all his strength will be
 needed all is ready we are off shortly 
  
- 2 november morning i was successful and we took turns driving all
+2 november morning i was successful and we took turns driving all
 night now the day is on us bright though cold there is a strange
 heaviness in the air i say heaviness for want of a better word i mean
 that it oppresses us both it is very cold and only our warm furs keep
@@ -12483,7 +12483,7 @@ us comfortable at dawn van helsing hypnotised me he says i answered
 they ascend i do hope that my darling will not run any chance of
 danger more than need be but we are in gods hands 
  
- 2 november night all day long driving the country gets wilder as
+2 november night all day long driving the country gets wilder as
 we go and the great spurs of the carpathians which at veresti seemed
 so far from us and so low on the horizon now seem to gather round us
 and tower in front we both seem in good spirits i think we make an
@@ -12503,8 +12503,8 @@ and who are in such deadly peril as for me i am not worthy in his
 sight alas i am unclean to his eyes and shall be until he may deign
 to let me stand forth in his sight as one of those who have not incurred
 his wrath 
- memorandum by abraham van helsing 
- 4 november this to my old and true friend john seward m d of
+memorandum by abraham van helsing 
+4 november this to my old and true friend john seward m d of
 purfleet london in case i may not see him it may explain it is
 morning and i write by a fire which all the night i have kept
 alive madam mina aiding me it is cold cold so cold that the grey
@@ -12519,7 +12519,7 @@ however to night she is more vif her long sleep all day have refresh
 and restore her for now she is all sweet and bright as ever at sunset
 i try to hypnotise her but alas with no effect the power has grown
 less and less with each day and to night it fail me altogether well 
-gods will be done whatever it may be and whithersoever it may lead 
+gods will be done whatever it may be and whithersoever it may lead
 now to the historical for as madam mina write not in her stenography i
 must in my cumbrous old fashion that so each day of us may not go
 unrecorded 
@@ -12587,7 +12587,7 @@ not and i am afraid afraid afraid i am afraid of all things even
 to think but i must go on my way the stake we play for is life and
 death or more than these and we must not flinch 
  
- 5 november morning let me be accurate in everything for though you
+5 november morning let me be accurate in everything for though you
 and i have seen some strange things together you may at the first think
 that i van helsing am mad that the many horrors and the so long
 strain on nerves has at the last turn my brain 
@@ -12607,7 +12607,7 @@ mountains seemed further away and we were near the top of a
 steep rising hill on summit of which was such a castle as jonathan tell
 of in his diary at once i exulted and feared for now for good or ill 
 the end was near 
-i woke madam mina and again tried to hypnotise her but alas 
+i woke madam mina and again tried to hypnotise her but alas
 unavailing till too late then ere the great dark came upon us for
 even after down sun the heavens reflected the gone sun on the snow and
 all was for a time in a great twilight i took out the horses and fed
@@ -12632,7 +12632,7 @@ down in her place then looking at me with open eyes as of one waked
 from sleep she said simply 
  i cannot and remained silent i rejoiced for i knew that what she
 could not none of those that we dreaded could though there might be
-danger to her body yet her soul was safe 
+danger to her body yet her soul was safe
 presently the horses began to scream and tore at their tethers till i
 came to them and quieted them when they did feel my hands on them they
 whinnied low as in joy and licked at my hands and were quiet for a
@@ -12707,8 +12707,8 @@ obscure it will be to me a safety
 i will strengthen me with breakfast and then i will to my terrible
 work madam mina still sleeps and god be thanked she is calm in her
 sleep 
- jonathan harkers journal 
- 4 november evening the accident to the launch has been a terrible
+jonathan harkers journal 
+4 november evening the accident to the launch has been a terrible
 thing for us only for it we should have overtaken the boat long ago 
 and by now my dear mina would have been free i fear to think of her 
 off on the wolds near that horrid place we have got horses and we
@@ -12716,8 +12716,8 @@ follow on the track i note this whilst godalming is getting ready we
 have our arms the szgany must look out if they mean fight oh if only
 morris and seward were with us we must only hope if i write no more
 good bye mina god bless and keep you 
- dr sewards diary 
- 5 november with the dawn we saw the body of szgany before us dashing
+dr sewards diary 
+5 november with the dawn we saw the body of szgany before us dashing
 away from the river with their leiter wagon they surrounded it in a
 cluster and hurried along as though beset the snow is falling lightly
 and there is a strange excitement in the air it may be our own
@@ -12726,8 +12726,8 @@ wolves the snow brings them down from the mountains and there are
 dangers to all of us and from all sides the horses are nearly ready 
 and we are soon off we ride to death of some one god alone knows who 
 or where or what or when or how it may be 
- dr van helsings memorandum 
- 5 november afternoon i am at least sane thank god for that mercy
+dr van helsings memorandum 
+5 november afternoon i am at least sane thank god for that mercy
 at all events though the proving it has been dreadful when i left
 madam mina sleeping within the holy circle i took my way to the castle 
 the blacksmith hammer which i took in the carriage from veresti was
@@ -12828,8 +12828,8 @@ fresh horror of that ruddy vampire sleep
 and so with trust and hope and yet full of fear we go eastward to meet
 our friends and him whom madam mina tell me that she know are
 coming to meet us 
- mina harkers journal 
- 6 november it was late in the afternoon when the professor and i
+mina harkers journal 
+6 november it was late in the afternoon when the professor and i
 took our way towards the east whence i knew jonathan was coming we did
 not go fast though the way was steeply downhill for we had to take
 heavy rugs and wraps with us we dared not face the possibility of being
@@ -13064,7 +13064,7 @@ loved her that they did dare much for her sake
 jonathan harker 
  the end
  
- theres more to follow 
+ theres more to follow
  more stories of the sort you like more probably by the author of
  this one more than 500 titles all told by writers of world wide
  reputation in the authors alphabetical list which you will find
@@ -13076,9 +13076,9 @@ jonathan harker
  the grosset dunlap list is not only the greatest index of good
  fiction available it represents in addition a generally accepted
  standard of value it will pay you to
- look on the other side of the wrapper 
+ look on the other side of the wrapper
  in case the wrapper is lost write to the publishers for a complete
- catalog 
+ catalog
  
 detective stories by j s fletcher
 may be had wherever books are sold ask for grosset dunlaps list
@@ -13096,7 +13096,7 @@ the rayner slade amalgamation
 the safety pin
 the secret way
 the valley of headstrong men
- ask for complete free list of g d popular copyrighted fiction 
+ask for complete free list of g d popular copyrighted fiction
 grosset dunlap publishers new york
  
 typographical errors corrected by the etext transcriber 

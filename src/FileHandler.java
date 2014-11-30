@@ -29,14 +29,16 @@ public class FileHandler {
 				if (line.isEmpty() || line.equals(" ")){
 				    continue;
 				}
-				str = line.replaceAll("'_*", "").replaceAll("[^a-zA-Z0-9]+"," ");
+				
+				str = line.replaceAll("['_*!]", "").replaceAll("[^a-zA-Z0-9]+"," ");
 				str = str.toLowerCase();
+				
 				writer.println(str);
 			}
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
-		
+
 		writer.close();
 		fileInput.close();
 		
