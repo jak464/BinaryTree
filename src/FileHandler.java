@@ -56,7 +56,7 @@ public class FileHandler {
 	}
 	
 	//add contents of file to binary tree
-	public void addFileToBinaryTree(){
+	public void addFileToBinaryTree(BinaryTree bt){
 		
 		BufferedReader formattedFile;
 		String line;
@@ -72,40 +72,16 @@ public class FileHandler {
 					String lineWordArray[] = line.split(" ");
 					
 					for(String word : lineWordArray){
-						
+						bt.add(word);
 					}
 			} 
-		} catch (FileNotFoundException e) {
-			
+		} 
+		catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
 		catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
-/*		
-		String line;
-		String str = "";
-		
-		try {
-			writer = new PrintWriter("formattedDracula.txt");
-			while((line = fileInput.readLine()) != null){
-				if (line.isEmpty() || line.equals(" ")){
-				    continue;
-				}
-				
-				str = line.replaceAll("['_*!]", "").replaceAll("[^a-zA-Z0-9]+"," ");
-				str = str.toLowerCase();
-				
-				writer.println(str);
-			}
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		}
-
-		writer.close();
-		fileInput.close();*/
 		
 	}
 	

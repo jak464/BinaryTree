@@ -2,6 +2,7 @@
 public class BinaryTree {
 	
 	private WordNode root;
+	private WordNode current;
 	private int nodeCount;
 	
 	//Binary Tree Constructor
@@ -20,12 +21,13 @@ public class BinaryTree {
 		if (nodeCount == 0) {
 			root = n;
 			nodeCount++;
+			n.setWordInstanceCount(1);
 			return true;
 		}
 		
 		//Check if data already in tree
 		//if it does, do not add but increase word instance count instead
-		if (search(word)){
+		if (search(word) == true){
 			n.setWordInstanceCount(n.getWordInstanceCount()+1);
 			return false;
 		}
@@ -42,6 +44,7 @@ public class BinaryTree {
 				if (tmp.getRchild() == null) {
 					tmp.setRchild(n);
 					nodeCount++;
+					n.setWordInstanceCount(1);
 					return true;
 				} else {
 					tmp = tmp.getRchild();
@@ -50,6 +53,7 @@ public class BinaryTree {
 				if (tmp.getLchild() == null) {
 					tmp.setLchild(n);
 					nodeCount++;
+					n.setWordInstanceCount(1);
 					return true;
 				} else {
 					tmp = tmp.getLchild();
@@ -96,7 +100,7 @@ public class BinaryTree {
 		preOrderTraversal(root.getLchild());
 		preOrderTraversal(root.getRchild());
 	}
-
+	
 	//traverse the left subtree by calling the in-order function
 	//display the data part of the root element
 	//traverse the right subtree by recursively calling the in-order function
@@ -134,8 +138,14 @@ public class BinaryTree {
 	}
 	
 
-	public boolean search(String data) {
-		return bsearch(root, data);
+	//search word and return that node to access
+	public WordNode searchWord(String word){
+		WordNode wn = new WordNode();
+		return wn;
+	}
+	
+	public boolean search(String word) {
+		return bsearch(root, word);
 	}
 	
 	private boolean bsearch(WordNode root, String word) {
@@ -145,7 +155,8 @@ public class BinaryTree {
 		
 		if (root.getWord() == word) {
 			return true;
-		} else {
+		} 
+		else {
 			//	returns neg int if nodeOne is < nodeTwo, returns 0 if equal
 			//	returns pos int if nodeOne is > nodetwo*/
 			int result = word.compareTo(root.getWord());
@@ -157,6 +168,31 @@ public class BinaryTree {
 				return bsearch(root.getRchild(), word);
 			}
 		}	
+	}
+
+	public WordNode getNodeContainingWord(WordNode root, String word){
+		if (root == null) {
+			return null;
+		}
+		
+		if (root.getWord() == word) {
+			WordNode current = new WordNode();
+			current = root;
+			return current;
+		} 
+		else {
+			//	returns neg int if nodeOne is < nodeTwo, returns 0 if equal
+			//	returns pos int if nodeOne is > nodetwo
+			int result = word.compareTo(root.getWord());
+			
+			if (result < 0) {
+				bsearch(root.getLchild(), word);
+			} 
+			else {
+				bsearch(root.getRchild(), word);
+			}
+		}
+		return null;
 	}
 	
 	//What is the depth of the tree?
@@ -183,4 +219,6 @@ public class BinaryTree {
 	public void findDeepestLeaf(){
 		
 	}
+	
+
  }
