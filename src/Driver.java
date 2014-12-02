@@ -4,9 +4,9 @@ import java.io.IOException;
 public class Driver {
 	
 	public void doIt() throws IOException{
-		FileHandler fh = new FileHandler();
-		fh.fileReader();
-		fh.formatFile();
+//		FileHandler fh = new FileHandler();
+//		fh.fileReader();
+//		fh.formatFile();
 		
 		BinaryTree bt = new BinaryTree();
 		bt.add("Poop");
@@ -15,8 +15,12 @@ public class Driver {
 		bt.add("Pants");
 		bt.add("Pants");
 		bt.add("xvii");
-		bt.search("Pants");
+//		bt.search("Pants");
 		bt.print();
+//		bt.bsearch
+		System.out.println("unique words: " + bt.getUniqueWordsCount());
+//		System.out.println(bt.searchWord("Poop"));
+		System.out.println(bt.searchAndReturnInstanceCount("00"));
 	/*	System.out.println();
 		System.out.println("pre order");
 		bt.preOrder();
