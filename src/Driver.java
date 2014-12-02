@@ -4,23 +4,23 @@ import java.io.IOException;
 public class Driver {
 	
 	public void doIt() throws IOException{
-//		FileHandler fh = new FileHandler();
-//		fh.fileReader();
-//		fh.formatFile();
+		FileHandler fh = new FileHandler();
+		fh.fileReader();
+		fh.formatFile();
 		
-		BinaryTree bt = new BinaryTree();
+//		BinaryTree bt = new BinaryTree();
+	/*	bt.add("Poop");
 		bt.add("Poop");
-		bt.add("Poop");
 		bt.add("Pants");
 		bt.add("Pants");
 		bt.add("Pants");
-		bt.add("xvii");
+		bt.add("xvii");*/
 //		bt.search("Pants");
-		bt.print();
+//		bt.print();
 //		bt.bsearch
-		System.out.println("unique words: " + bt.getUniqueWordsCount());
+//		System.out.println("unique words: " + bt.getUniqueWordsCount());
 //		System.out.println(bt.searchWord("Poop"));
-		System.out.println(bt.searchAndReturnInstanceCount("00"));
+//		System.out.println(bt.searchAndReturnInstanceCount("00"));
 	/*	System.out.println();
 		System.out.println("pre order");
 		bt.preOrder();
@@ -30,11 +30,12 @@ public class Driver {
 		bt.postOrder();
 		System.out.println(bt.search("Podfop"));*/
 		
-		/*BinaryTree bt = new BinaryTree();
+		BinaryTree bt = new BinaryTree();
 		fh.addFileToBinaryTree(bt);
-		System.out.println(bt.getRoot());*/
-//		bt.inOrder();
-//		bt.print();
+		System.out.println(bt.getRoot());
+		bt.inOrder();
+		bt.print();
+		System.out.println("Unique words: " + bt.getUniqueWordsCount());
 
 	}
 	

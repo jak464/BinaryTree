@@ -205,31 +205,6 @@ public class BinaryTree {
 			}
 		}	
 	}
-
-/*	public WordNode getNodeContainingWord(WordNode root, String word){
-		if (root == null) {
-			return null;
-		}
-		
-		if (root.getWord() == word) {
-			current = root;
-			return current;
-		} 
-		else {
-			//	returns neg int if nodeOne is < nodeTwo, returns 0 if equal
-			//	returns pos int if nodeOne is > nodetwo
-			int result = word.compareTo(root.getWord());
-			
-			if (result < 0) {
-				current = bsearchExists(root.getLchild(), word);
-				return current;
-			} 
-			else {
-				bsearchExists(root.getRchild(), word);
-			}
-		}
-		return null;
-	}*/
 	
 	//What is the depth of the tree?
 	public void findDepth(){
