@@ -162,7 +162,7 @@ public class BinaryTree {
 			return false;
 		}
 		
-		if (root.getWord() == word) {
+		if (root.getWord().equals(word)) {
 			return true;
 		} 
 		else {
@@ -185,7 +185,7 @@ public class BinaryTree {
 			return null;
 		}
 		
-		if (root.getWord() == word) {
+		if (root.getWord().equals(word)) {
 			current = root;
 			return current;
 		} 

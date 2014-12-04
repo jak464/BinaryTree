@@ -4,45 +4,45 @@ import java.io.IOException;
 public class Driver {
 	
 	public void doIt() throws IOException{
-		FileHandler fh = new FileHandler();
-		fh.fileReader();
-		fh.formatFile();
+
 		
-//		BinaryTree bt = new BinaryTree();
-	/*	bt.add("Poop");
+/*	BinaryTree bt = new BinaryTree();
+		bt.add("Poop");
 		bt.add("Poop");
 		bt.add("Pants");
 		bt.add("Pants");
 		bt.add("Pants");
-		bt.add("xvii");*/
-//		bt.search("Pants");
-//		bt.print();
-//		bt.bsearch
-//		System.out.println("unique words: " + bt.getUniqueWordsCount());
-//		System.out.println(bt.searchWord("Poop"));
-//		System.out.println(bt.searchAndReturnInstanceCount("00"));
-	/*	System.out.println();
-		System.out.println("pre order");
-		bt.preOrder();
-		System.out.println("in order");
-		bt.inOrder();		
-		System.out.println("post order");
-		bt.postOrder();
-		System.out.println(bt.search("Podfop"));*/
-		
-		BinaryTree bt = new BinaryTree();
-		fh.addFileToBinaryTree(bt);
-		System.out.println(bt.getRoot());
-		bt.inOrder();
+		bt.add("xvii");
+		System.out.println(bt.search("Pants"));
+		System.out.println(bt.search("Pants"));
 		bt.print();
-		System.out.println("Unique words: " + bt.getUniqueWordsCount());
+		bt.bsearch("POONCE");
+		System.out.println("unique words: " + bt.getUniqueWordsCount());
+		System.out.println(bt.searchWord("Poop"));*/
+
+
+		
+		FileHandler fh = new FileHandler();
+		fh.readFile();
+		fh.formatFile();
+		fh.writeFormattedStringtoFile();
+		
+		BinaryTree bttt = new BinaryTree();
+		fh.addFileToBinaryTree(bttt);
+		bttt.print();
+		System.out.println("Unique words: " + bttt.getUniqueWordsCount());
 
 	}
 	
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) {
 		
 		Driver me = new Driver();
-		me.doIt();
+		try {
+			me.doIt();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 
 }
