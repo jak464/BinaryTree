@@ -7,66 +7,73 @@ import java.util.Scanner;
 
 public class FileHandler {
 
-	private BufferedReader fileInput;
-	private StringBuilder draculaText;
 	private String originalText;
 	private String formattedText;
 	
-	//read in text file to String
+	//reads in dracula text file to a string
 	public String readFile() throws IOException{
-		fileInput = new BufferedReader((new FileReader("dracula.txt")));
+		
+		BufferedReader fileInput = new BufferedReader((new FileReader("dracula.txt")));
 	
-		draculaText = new StringBuilder();
+		StringBuilder draculaTextSB = new StringBuilder();
 		String line = fileInput.readLine();
 		
 		while(line != null){
-			draculaText.append(line);
-			draculaText.append("\n");
+			draculaTextSB.append(line);
+			draculaTextSB.append("\n");
 			line = fileInput.readLine();
 		}
-		originalText = draculaText.toString();
+		
+		originalText = draculaTextSB.toString();
 		return originalText;
 	}
 
-	//formats String to remove bad chars
+	//formats String to remove bad chars 
 	public String formatFile(){
 		
-		String sansMultipleSpacesString = "";
-		StringBuilder sansBadCharacters = new StringBuilder();
 		Character n;
+		String minimizeWhiteSpace = "";
+		StringBuilder noBadCharactersSB = new StringBuilder();
 		
-		sansMultipleSpacesString = originalText.replaceAll("\\s+", " ");
+		//matches 1+ whitespace character and replaces with 1 space to 
+		//allow the string's words to have a delimiter of 1 space. 
+		minimizeWhiteSpace = originalText.replaceAll("\\s+", " ");
 
-		for(int i = 0; i < sansMultipleSpacesString.length(); i++){
-			n = sansMultipleSpacesString.charAt(i);
+		//loops through each char and the string and only adds if it's 
+		//a whitespace character, letter, or digit.
+		for(int i = 0; i < minimizeWhiteSpace.length(); i++){
+			n = minimizeWhiteSpace.charAt(i);
 			if(Character.isWhitespace(n) || Character.isLetterOrDigit(n)){
-				sansBadCharacters.append(n);
+				noBadCharactersSB.append(n);
 			}
 
 		}
 
-		formattedText = sansBadCharacters.toString().toLowerCase();
+		formattedText = noBadCharactersSB.toString().toLowerCase();
 		return formattedText;
 	}
 	
+	//writes the formatted String to a file
 	public void writeFormattedStringtoFile(){
 		try {
 			PrintWriter out = new PrintWriter("formattedDracula.txt");
 			out.print(formattedText);
 			out.close();
-		} catch (FileNotFoundException e) {
+		} 
+		catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
 		
 	}
 	
-	//add contents of file to binary tree
+	//add contents of file to a binary tree
 	public void addFileToBinaryTree(BinaryTree bt){
 		
 		Scanner scanny;
 		
 		try {
 			scanny = new Scanner(new BufferedReader(new FileReader("formattedDracula.txt")));
+			
 			while(scanny.hasNext()){
 				bt.add(scanny.next());
 			}
