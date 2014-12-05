@@ -5,7 +5,7 @@ public class BinaryTree {
 	private WordNode current;
 	private int nodeCount;
 	
-	//Binary Tree Constructor
+	//binary tree Constructor
 	public BinaryTree() {
 		root = null;
 		nodeCount = 0;

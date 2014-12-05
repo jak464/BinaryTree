@@ -5,33 +5,25 @@ public class Driver {
 	
 	public void doIt() throws IOException{
 
-		
-/*	BinaryTree bt = new BinaryTree();
-		bt.add("Poop");
-		bt.add("Poop");
-		bt.add("Pants");
-		bt.add("Pants");
-		bt.add("Pants");
-		bt.add("xvii");
-		System.out.println(bt.search("Pants"));
-		System.out.println(bt.search("Pants"));
-		bt.print();
-		bt.bsearch("POONCE");
-		System.out.println("unique words: " + bt.getUniqueWordsCount());
-		System.out.println(bt.searchWord("Poop"));*/
-
-
-		
 		FileHandler fh = new FileHandler();
 		fh.readFile();
 		fh.formatFile();
 		fh.writeFormattedStringtoFile();
 		
-		BinaryTree bttt = new BinaryTree();
-		fh.addFileToBinaryTree(bttt);
-		bttt.print();
-		System.out.println("Unique words: " + bttt.getUniqueWordsCount());
-
+		BinaryTree bt = new BinaryTree();
+		fh.addFileToBinaryTree(bt);
+		
+		System.out.printf("Unique Words: %d%n", bt.getUniqueWordsCount());
+		System.out.println("Unique words: " + bt.getUniqueWordsCount() + "\n");
+		System.out.println("transylvia occurs: " + bt.searchAndReturnInstanceCount("transylvia"));
+		System.out.println("harker occurs: " + bt.searchAndReturnInstanceCount("harker"));
+		System.out.println("renfield occurs: " + bt.searchAndReturnInstanceCount("renfield"));
+		System.out.println("harker occurs: " + bt.searchAndReturnInstanceCount("harker"));
+		System.out.println("vampire occurs: " + bt.searchAndReturnInstanceCount("vampire"));
+		System.out.println("expostulate occurs: " + bt.searchAndReturnInstanceCount("expostulate"));
+		System.out.println();
+		
+//		bt.print();
 	}
 	
 	public static void main(String[] args) {
