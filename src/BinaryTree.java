@@ -4,7 +4,7 @@ public class BinaryTree {
 	private WordNode current;
 	private int nodeCount;
 	private int currentDepth = 0;
-	private int totalDepth = 0;
+	private int maxDepth = 0;
 	private int mostFrequentCount = 0;
 	private WordNode mostestNode;
 	private WordNode deepestNode;
@@ -74,6 +74,7 @@ public class BinaryTree {
 		printTree(root);
 	}
 	
+	//traverses the tree in order and prints
 	private void printTree(WordNode root) {
 		if (root == null) {
 			System.out.print(".");
@@ -85,8 +86,6 @@ public class BinaryTree {
 		printTree(root.getRchild());
 		
 	}
-	
-	
 	
 	//search word and return instance count
 	public int searchAndReturnInstanceCount(String word){
@@ -130,20 +129,22 @@ public class BinaryTree {
 	}
 	
 	public int findDepth() {
-		return findDepth(root);
+		currentDepth = 0;
+		maxDepth = 0;
+		findDepth(root);
+		return maxDepth;
 	}
 	
-	//finds depth of tree by keeping track of
-	//current depth and total depth while traversing
-	//the tree
-	public int findDepth(WordNode root){
+	//finds depth of tree by keeping track of current depth 
+	//and total depth while traversing the tree
+	public void findDepth(WordNode root){
 		
 		if(root != null) {
 			currentDepth++;
 			
 			//records total depth if current depth is > total depth
-			if(currentDepth > totalDepth) {
-				totalDepth = currentDepth;
+			if(currentDepth > maxDepth) {
+				maxDepth = currentDepth;
 			}
 			
 			//recursively traverses the tree
@@ -155,21 +156,40 @@ public class BinaryTree {
 			currentDepth--;
 		}
 		
-
-		return totalDepth;
 	}
 	
-//	public WordNode findDeepestWord() {
-//		return findDeepestWord(root);
-//	}
+	public String findDeepestWord() {
+		maxDepth = 0;
+		currentDepth = 0;
+		findDeepestWord(root);
+		System.out.println(maxDepth);
+		return deepestNode.getWord();
+	}
 	
 	//finds depth of tree by keeping track of
 	//current depth and total depth while traversing
 	//the tree
-//	public WordNode findDeepestWord(WordNode root){
-//		
-//
-//	}
+	public void findDeepestWord(WordNode root){
+		if(root != null) {
+			currentDepth++;
+			
+			//records total depth if current depth is > total depth
+			//check if current depth is equal to maxdepth (34), add it to a list of deepestNodes
+			if(currentDepth > maxDepth) {
+				maxDepth = currentDepth;
+				deepestNode = root;
+			}
+			
+			//recursively traverses the tree
+			findDeepestWord(root.getLchild());
+			findDeepestWord(root.getRchild());
+			
+			//decrements as we traverse upwards
+			//no more nodes and we go 1 level up
+			currentDepth--;
+		}
+
+	}
 	
 	//Which word occurs most frequently?
 	public WordNode findMostFrequentWord(){
@@ -199,14 +219,9 @@ public class BinaryTree {
 		return nodeCount;
 	}
 	
-	//What word is at the root of the tree?
+	//returns root of the binary tree
 	public String getRoot(){
 		return root.getWord();
-	}
-
-	//What word is at the deepest of the tree?
-	public void findDeepestLeaf(){
-		
 	}
 	
 	//search word

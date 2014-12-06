@@ -26,7 +26,7 @@ public class Driver {
 		System.out.println("Most Frequent Word: " + bt.findMostFrequentWord().getWord() + " occurs " + bt.findMostFrequentWord().getWordInstanceCount());
 //		bt.print();
 		
-//		System.out.println("deepest node: " + bt.findDeepestWord().getWord());
+		System.out.println("deepest node: " + bt.findDeepestWord());
 	}
 	
 	public static void main(String[] args) {
