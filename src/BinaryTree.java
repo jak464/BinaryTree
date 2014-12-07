@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class BinaryTree {
 	
 	private WordNode root;
@@ -6,22 +8,22 @@ public class BinaryTree {
 	private int currentDepth = 0;
 	private int maxDepth = 0;
 	private int mostFrequentCount = 0;
-	private WordNode mostestNode;
-	private WordNode deepestNode;
+	private WordNode mostFrequentWord;
+	private ArrayList<String> deepestNodes = new ArrayList<String>();
 	
-	//binary tree Constructor
+	//binary tree constructor
 	public BinaryTree() {
 		root = null;
 		nodeCount = 0;
 	}
 	
-	//Add Word to the Binary Tree
+	//add word to the binary tree
 	public boolean add(String word) {
 		
 		WordNode n = new WordNode();
 		n.setWord(word);
 
-		//If the tree is empty, add the root node
+		//if the tree is empty, add the root node
 		if (nodeCount == 0) {
 			root = n;
 			nodeCount++;
@@ -29,20 +31,19 @@ public class BinaryTree {
 			return true;
 		}
 		
-		//Check if data already in tree
-		//if it does, do not add but increase word instance count instead
+		//check if data already in tree. if it does, do 
+		//not add but instead increase word instance count 
 		if (searchWord(word) != null){
 			n = bsearchReturnNode(root, n.getWord());
 			n.setWordInstanceCount(n.getWordInstanceCount()+1);
 			return false;
 		}
 			
-		// iteratively locate place for this data
+		//iteratively locate place for this data
 		WordNode tmp = root;
 		
 		while (tmp != null) {
-//			returns neg int if nodeOne is < nodeTwo, returns 0 if equal
-//			returns pos int if nodeOne is > nodetwo*/			
+			//returns neg int if node1 is < node2 and pos int if node1 is > node2
 			int result = word.compareTo(tmp.getWord());
 
 			if (result > 0) {
@@ -51,16 +52,19 @@ public class BinaryTree {
 					nodeCount++;
 					n.setWordInstanceCount(1);
 					return true;
-				} else {
+				} 
+				else {
 					tmp = tmp.getRchild();
 				}
-			} else {
+			} 
+			else {
 				if (tmp.getLchild() == null) {
 					tmp.setLchild(n);
 					nodeCount++;
 					n.setWordInstanceCount(1);
 					return true;
-				} else {
+				} 
+				else {
 					tmp = tmp.getLchild();
 				}
 				
@@ -87,12 +91,21 @@ public class BinaryTree {
 		
 	}
 	
+	//returns how many unique words are in the book
+	public int getUniqueWordsCount(){
+		return nodeCount;
+	}
+	
+	//returns root of the binary tree
+	public String getRoot(){
+		return root.getWord();
+	}
+	
 	//search word and return instance count
 	public int searchAndReturnInstanceCount(String word){
 		if(bsearchReturnNode(root, word) != null){
 			return current.getWordInstanceCount();
 		}
-
 		return 0;
 	}
 	
@@ -113,8 +126,8 @@ public class BinaryTree {
 		} 
 		
 		else {
-			//	returns neg int if nodeOne is < nodeTwo, returns 0 if equal
-			//	returns pos int if nodeOne is > nodetwo*/
+			//returns neg int if node1 is < node2, 0 if equal
+			//pos int if node1 is > node2
 			int result = word.compareTo(root.getWord());
 			
 			if (result < 0) {
@@ -128,6 +141,7 @@ public class BinaryTree {
 		}	
 	}
 	
+	//finds depth of tree
 	public int findDepth() {
 		currentDepth = 0;
 		maxDepth = 0;
@@ -158,26 +172,26 @@ public class BinaryTree {
 		
 	}
 	
-	public String findDeepestWord() {
+	//finds deepest words
+	public ArrayList<String> findDeepestWord() {
 		maxDepth = 0;
 		currentDepth = 0;
+		findDepth();
 		findDeepestWord(root);
-		System.out.println(maxDepth);
-		return deepestNode.getWord();
+		return deepestNodes;
 	}
 	
-	//finds depth of tree by keeping track of
-	//current depth and total depth while traversing
-	//the tree
+	//finds depth of tree by recursively traversing the tree
+	//and keeping track of current depth and total depth
 	public void findDeepestWord(WordNode root){
 		if(root != null) {
+			
 			currentDepth++;
 			
-			//records total depth if current depth is > total depth
-			//check if current depth is equal to maxdepth (34), add it to a list of deepestNodes
-			if(currentDepth > maxDepth) {
-				maxDepth = currentDepth;
-				deepestNode = root;
+			//check if current depth is equal to max depth, 
+			//add it to a list of deepestNodes
+			if(currentDepth == maxDepth) {
+				deepestNodes.add(root.getWord());
 			}
 			
 			//recursively traverses the tree
@@ -188,123 +202,31 @@ public class BinaryTree {
 			//no more nodes and we go 1 level up
 			currentDepth--;
 		}
-
 	}
 	
-	//Which word occurs most frequently?
+	//returns most frequent word
 	public WordNode findMostFrequentWord(){
-		WordNode most = findMostFrequentWord(root);
-		return most;
+		return findMostFrequentWord(root);
 	}
 	
+	//finds most frequent word by recursively traversing the 
+	//tree and compares each nodes word instance count to the highest
 	private WordNode findMostFrequentWord(WordNode root){
 		if(root == null){
-			return mostestNode;
+			return mostFrequentWord;
 		}
 		
 		if(root.getWordInstanceCount() >= mostFrequentCount){
-			mostestNode = root;
+			mostFrequentWord = root;
 			mostFrequentCount = root.getWordInstanceCount();
 		}
 			
 		 findMostFrequentWord(root.getLchild());
 		 findMostFrequentWord(root.getRchild());
 	
-		 return mostestNode;
+		 return mostFrequentWord;
 	}
-	
-	
-	//returns how many unique words are in the book
-	public int getUniqueWordsCount(){
-		return nodeCount;
-	}
-	
-	//returns root of the binary tree
-	public String getRoot(){
-		return root.getWord();
-	}
-	
-	//search word
-	/*public boolean search(String word) {
-		return bsearchExists(root, word);
-	}*/
-	
-	//search if word exists and return true or false
-	/*private boolean bsearchExists(WordNode root, String word) {
-		if (root == null) {
-			return false;
-		}
-		
-		if (root.getWord().equals(word)) {
-			return true;
-		} 
-		else {
-			//	returns neg int if nodeOne is < nodeTwo, returns 0 if equal
-			//	returns pos int if nodeOne is > nodetwo
-			int result = word.compareTo(root.getWord());
-			
-			if (result < 0) {
-				return bsearchExists(root.getLchild(), word);
-			} 
-			else {
-				return bsearchExists(root.getRchild(), word);
-			}
-		}	
-	}*/
-	
-/*	//display the data part of root element
-		//traverse the left subtree by recursively calling the pre-order function
-		//traverse the right subtree by recursively calling the pre-order function
-		//aka start at root and go downwards on left and go downwards on right
-		public void preOrder() {
-			preOrderTraversal(root);
-			System.out.println();
-		}
-		
-		private void preOrderTraversal(WordNode root) {
-			if (root == null) {
-				return;
-			}
-			System.out.print(root.getWord() + " ");
-			preOrderTraversal(root.getLchild());
-			preOrderTraversal(root.getRchild());
-		}
-		
-		//traverse the left subtree by calling the in-order function
-		//display the data part of the root element
-		//traverse the right subtree by recursively calling the in-order function
-		//aka start from left bottom and work your way up and right
-		public void inOrder() {
-			inOrderTraversal(root);
-			System.out.println();
-		}
-		
-		private void inOrderTraversal(WordNode root) {
-			if (root == null) {
-				return;
-			}
-			preOrderTraversal(root.getLchild());
-			System.out.print(root.getWord() + " ");
-			preOrderTraversal(root.getRchild());
-		}
-		
-		//traverse the left subtree by recursively calling the post-order function
-		//traverse the right subtree by recursively calling the post-order function
-		//display the data part of root element (or current element)
-		//left most bottom nodes first, up, then right side. 
-		public void postOrder() {
-			postOrderTraversal(root);
-			System.out.println();
-		}
-		
-		private void postOrderTraversal(WordNode root) {
-			if (root == null) {
-				return;
-			}
-			postOrderTraversal(root.getLchild());
-			postOrderTraversal(root.getRchild());
-			System.out.print(root.getWord() + " ");
-		}*/
 	
 
+	
  }

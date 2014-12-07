@@ -1,32 +1,50 @@
 import java.io.IOException;
 
-
 public class Driver {
 	
 	public void doIt() throws IOException{
 
+		//reads in and formats file. writes formatted string to a new file.
 		FileHandler fh = new FileHandler();
 		fh.readFile();
 		fh.formatFile();
 		fh.writeFormattedStringtoFile();
 		
+		//creates a binary tree and adds the file to it
 		BinaryTree bt = new BinaryTree();
 		fh.addFileToBinaryTree(bt);
 		
-		System.out.println("Unique words: " + bt.getUniqueWordsCount() + "\n");
-		System.out.println("transylvania occurs: " + bt.searchAndReturnInstanceCount("transylvania"));
-		System.out.println("harker occurs: " + bt.searchAndReturnInstanceCount("harker"));
-		System.out.println("renfield occurs: " + bt.searchAndReturnInstanceCount("renfield"));
-		System.out.println("harker occurs: " + bt.searchAndReturnInstanceCount("harker"));
-		System.out.println("vampire occurs: " + bt.searchAndReturnInstanceCount("vampire"));
-		System.out.println("expostulate occurs: " + bt.searchAndReturnInstanceCount("expostulate"));
-		System.out.println();
-		System.out.println("Depth of Tree: " + bt.findDepth());
-//		bt.inOrder();
-		System.out.println("Most Frequent Word: " + bt.findMostFrequentWord().getWord() + " occurs " + bt.findMostFrequentWord().getWordInstanceCount());
-//		bt.print();
+		//query for the times the following words appear in the text
+		System.out.println("The following words appear these # of times");
+		System.out.println("-------------------------------------------");
+		System.out.printf( "%-25s %s %n", "transylvania:", bt.searchAndReturnInstanceCount("transylvania"));
+		System.out.printf( "%-25s %s %n", "harker:", bt.searchAndReturnInstanceCount("harker"));
+		System.out.printf( "%-25s %s %n", "renfield:", bt.searchAndReturnInstanceCount("renfield"));
+		System.out.printf( "%-25s %s %n", "vampire:", bt.searchAndReturnInstanceCount("vampire"));
+		System.out.printf( "%-25s %s %n %n", "expostulate:", bt.searchAndReturnInstanceCount("expostulate"));
 		
-		System.out.println("deepest node: " + bt.findDeepestWord());
+		//gets the depth of the binary tree
+		System.out.printf( "%-25s %s %n %n", "Depth of Tree:", bt.findDepth());
+
+		//gets unique word count in the book
+		System.out.printf( "%-25s %s %n %n", "Unique Words:", bt.getUniqueWordsCount());
+		
+		//gets word at root of the tree
+		System.out.printf( "%-25s %s %n %n", "Root:", bt.getRoot());
+		
+		
+		//gets the deepest leaves of the tree
+		System.out.printf( "%-25s %s %n %n", "Deepest Word(s):", bt.findDeepestWord());
+			
+		//gets the most frequent word and a count
+		System.out.printf( "%-25s %s %n", "Most Frequent Word:", bt.findMostFrequentWord().getWord());
+		System.out.printf( "%-25s %s %n %n", "Most Frequent Count:", bt.findMostFrequentWord().getWordInstanceCount());
+	
+		System.out.println("-------------------------------------------");
+		//prints the binary tree
+		System.out.println("Printing Binary Tree... \n");
+		bt.print();
+	
 	}
 	
 	public static void main(String[] args) {
